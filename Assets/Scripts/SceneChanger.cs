@@ -9,4 +9,10 @@ public class SceneChanger : MonoBehaviour
     public void CreateLoadScreen() {
         SceneManager.LoadScene("CreateLoadScreen");
     }
+
+
+    // Go to the Game Info Screen
+    public void GameInfoScreen() {
+        SceneManager.LoadScene("GameInfo");
+    }
 }
