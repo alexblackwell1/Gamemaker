@@ -15,4 +15,9 @@ public class SceneChanger : MonoBehaviour
     public void GameInfoScreen() {
         SceneManager.LoadScene("GameInfo");
     }
+
+    // Go to Game Elements Screen 
+    public void GameElementScreen() {
+        SceneManager.LoadScene("GameElementScreen");
+    }
 }
