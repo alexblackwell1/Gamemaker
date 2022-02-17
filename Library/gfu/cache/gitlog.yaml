@@ -13,9 +13,651 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2022-02-15T16:36:40.903-05:00
-  initializedAtString: 2022-02-15T16:36:40.903-05:00
+  lastUpdatedAtString: 2022-02-17T13:58:20.416-05:00
+  initializedAtString: 2022-02-17T03:21:04.213-05:00
   log:
+  - commitID: 233da68823457bd90c66eea323702d9b4c6d4ed0
+    mergeA: 
+    mergeB: 
+    authorName: billyjp1
+    authorEmail: billyjp@appstate.edu
+    commitEmail: billyjp@appstate.edu
+    commitName: billyjp1
+    summary: Game info screen reads user input, copys selected images to Boards folder
+    description: 
+    timeString: 2022-02-15T17:13:48.000-05:00
+    commitTimeString: 2022-02-15T17:13:48.000-05:00
+    changes:
+    - path: Assets\Boards.meta
+      fullPath: C:\Users\jakeb\TTGM\Gamemaker\Assets\Boards.meta
+      projectPath: Assets\Boards.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Boards\wood-600x480.jpg
+      fullPath: C:\Users\jakeb\TTGM\Gamemaker\Assets\Boards\wood-600x480.jpg
+      projectPath: Assets\Boards\wood-600x480.jpg
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Boards\wood-600x480.jpg.meta
+      fullPath: C:\Users\jakeb\TTGM\Gamemaker\Assets\Boards\wood-600x480.jpg.meta
+      projectPath: Assets\Boards\wood-600x480.jpg.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\GameConditionScreen.unity
+      fullPath: C:\Users\jakeb\TTGM\Gamemaker\Assets\Scenes\GameConditionScreen.unity
+      projectPath: Assets\Scenes\GameConditionScreen.unity
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\GameConditionScreen.unity.meta
+      fullPath: C:\Users\jakeb\TTGM\Gamemaker\Assets\Scenes\GameConditionScreen.unity.meta
+      projectPath: Assets\Scenes\GameConditionScreen.unity.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\GameElementScreen.unity
+      fullPath: C:\Users\jakeb\TTGM\Gamemaker\Assets\Scenes\GameElementScreen.unity
+      projectPath: Assets\Scenes\GameElementScreen.unity
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\GameElementScreen.unity.meta
+      fullPath: C:\Users\jakeb\TTGM\Gamemaker\Assets\Scenes\GameElementScreen.unity.meta
+      projectPath: Assets\Scenes\GameElementScreen.unity.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\GameInfo.unity
+      fullPath: C:\Users\jakeb\TTGM\Gamemaker\Assets\Scenes\GameInfo.unity
+      projectPath: Assets\Scenes\GameInfo.unity
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Scenes\PlayerStatsScreen.unity
+      fullPath: C:\Users\jakeb\TTGM\Gamemaker\Assets\Scenes\PlayerStatsScreen.unity
+      projectPath: Assets\Scenes\PlayerStatsScreen.unity
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\PlayerStatsScreen.unity.meta
+      fullPath: C:\Users\jakeb\TTGM\Gamemaker\Assets\Scenes\PlayerStatsScreen.unity.meta
+      projectPath: Assets\Scenes\PlayerStatsScreen.unity.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\StartScreen.unity
+      fullPath: C:\Users\jakeb\TTGM\Gamemaker\Assets\Scenes\StartScreen.unity
+      projectPath: Assets\Scenes\StartScreen.unity
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Scripts\FileUpload.cs
+      fullPath: C:\Users\jakeb\TTGM\Gamemaker\Assets\Scripts\FileUpload.cs
+      projectPath: Assets\Scripts\FileUpload.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\FileUpload.cs.meta
+      fullPath: C:\Users\jakeb\TTGM\Gamemaker\Assets\Scripts\FileUpload.cs.meta
+      projectPath: Assets\Scripts\FileUpload.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\SceneChanger.cs
+      fullPath: C:\Users\jakeb\TTGM\Gamemaker\Assets\Scripts\SceneChanger.cs
+      projectPath: Assets\Scripts\SceneChanger.cs
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Scripts\UserTextInput.cs
+      fullPath: C:\Users\jakeb\TTGM\Gamemaker\Assets\Scripts\UserTextInput.cs
+      projectPath: Assets\Scripts\UserTextInput.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\UserTextInput.cs.meta
+      fullPath: C:\Users\jakeb\TTGM\Gamemaker\Assets\Scripts\UserTextInput.cs.meta
+      projectPath: Assets\Scripts\UserTextInput.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\APIUpdater\project-dependencies.graph
+      fullPath: C:\Users\jakeb\TTGM\Gamemaker\Library\APIUpdater\project-dependencies.graph
+      projectPath: Library\APIUpdater\project-dependencies.graph
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ArtifactDB
+      fullPath: C:\Users\jakeb\TTGM\Gamemaker\Library\ArtifactDB
+      projectPath: Library\ArtifactDB
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\Artifacts\04\045a7bc81a7c2677e1a588f35ab27933
+      fullPath: C:\Users\jakeb\TTGM\Gamemaker\Library\Artifacts\04\045a7bc81a7c2677e1a588f35ab27933
+      projectPath: Library\Artifacts\04\045a7bc81a7c2677e1a588f35ab27933
+      originalPath: Library\Artifacts\d4\d4fb3aa8cbd333f813d6376b2be87c5a
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Library\Artifacts\20\2025297025472bc430e2ff167b5567c0
+      fullPath: C:\Users\jakeb\TTGM\Gamemaker\Library\Artifacts\20\2025297025472bc430e2ff167b5567c0
+      projectPath: Library\Artifacts\20\2025297025472bc430e2ff167b5567c0
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\Artifacts\20\20ad84b0601d461c152fb4d0ead6ec56
+      fullPath: C:\Users\jakeb\TTGM\Gamemaker\Library\Artifacts\20\20ad84b0601d461c152fb4d0ead6ec56
+      projectPath: Library\Artifacts\20\20ad84b0601d461c152fb4d0ead6ec56
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\Artifacts\22\22b8c85f98193422d3a0028d4abf9c26
+      fullPath: C:\Users\jakeb\TTGM\Gamemaker\Library\Artifacts\22\22b8c85f98193422d3a0028d4abf9c26
+      projectPath: Library\Artifacts\22\22b8c85f98193422d3a0028d4abf9c26
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\27\27a91b0fa7e48352a9c413f8bcc3b33c
+      fullPath: C:\Users\jakeb\TTGM\Gamemaker\Library\Artifacts\27\27a91b0fa7e48352a9c413f8bcc3b33c
+      projectPath: Library\Artifacts\27\27a91b0fa7e48352a9c413f8bcc3b33c
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\37\3710f4b18c395adab2e29bdf7f8ed91d
+      fullPath: C:\Users\jakeb\TTGM\Gamemaker\Library\Artifacts\37\3710f4b18c395adab2e29bdf7f8ed91d
+      projectPath: Library\Artifacts\37\3710f4b18c395adab2e29bdf7f8ed91d
+      originalPath: Library\Artifacts\75\75586ce86c34f2ec537b7f9cc58d69f5
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Library\Artifacts\3f\3fde39a0ac32981cd308c39f571c105a
+      fullPath: C:\Users\jakeb\TTGM\Gamemaker\Library\Artifacts\3f\3fde39a0ac32981cd308c39f571c105a
+      projectPath: Library\Artifacts\3f\3fde39a0ac32981cd308c39f571c105a
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\Artifacts\48\483b20c00f23603f1c4ac2e91ba57c07
+      fullPath: C:\Users\jakeb\TTGM\Gamemaker\Library\Artifacts\48\483b20c00f23603f1c4ac2e91ba57c07
+      projectPath: Library\Artifacts\48\483b20c00f23603f1c4ac2e91ba57c07
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\5c\5c08647951795e70bfb4a144ce71cfc1
+      fullPath: C:\Users\jakeb\TTGM\Gamemaker\Library\Artifacts\5c\5c08647951795e70bfb4a144ce71cfc1
+      projectPath: Library\Artifacts\5c\5c08647951795e70bfb4a144ce71cfc1
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\62\627a9abb8ba656d00dad44098614d709
+      fullPath: C:\Users\jakeb\TTGM\Gamemaker\Library\Artifacts\62\627a9abb8ba656d00dad44098614d709
+      projectPath: Library\Artifacts\62\627a9abb8ba656d00dad44098614d709
+      originalPath: Library\Artifacts\e0\e0b88e15d747efc77a6237a7e1877d01
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Library\Artifacts\69\69b23da4cb56d6c0954a6a5109feab4e
+      fullPath: C:\Users\jakeb\TTGM\Gamemaker\Library\Artifacts\69\69b23da4cb56d6c0954a6a5109feab4e
+      projectPath: Library\Artifacts\69\69b23da4cb56d6c0954a6a5109feab4e
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\73\733cfd11853e37d690cb86bf09b120fc
+      fullPath: C:\Users\jakeb\TTGM\Gamemaker\Library\Artifacts\73\733cfd11853e37d690cb86bf09b120fc
+      projectPath: Library\Artifacts\73\733cfd11853e37d690cb86bf09b120fc
+      originalPath: Library\Artifacts\91\9132dad218556319dbe7e8058f45dbee
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Library\Artifacts\79\79dc7161613a7f2284bb2b6757081812
+      fullPath: C:\Users\jakeb\TTGM\Gamemaker\Library\Artifacts\79\79dc7161613a7f2284bb2b6757081812
+      projectPath: Library\Artifacts\79\79dc7161613a7f2284bb2b6757081812
+      originalPath: Library\Artifacts\84\847892f3f8587d161808fc25d85b5570
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Library\Artifacts\87\8797c0df7a1455adcf0d0388fd077777
+      fullPath: C:\Users\jakeb\TTGM\Gamemaker\Library\Artifacts\87\8797c0df7a1455adcf0d0388fd077777
+      projectPath: Library\Artifacts\87\8797c0df7a1455adcf0d0388fd077777
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\8a\8a3e3a382156a180f92a66d4e0d61785
+      fullPath: C:\Users\jakeb\TTGM\Gamemaker\Library\Artifacts\8a\8a3e3a382156a180f92a66d4e0d61785
+      projectPath: Library\Artifacts\8a\8a3e3a382156a180f92a66d4e0d61785
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\96\96dd4a3297811cc18b08c5ceb1f05a91
+      fullPath: C:\Users\jakeb\TTGM\Gamemaker\Library\Artifacts\96\96dd4a3297811cc18b08c5ceb1f05a91
+      projectPath: Library\Artifacts\96\96dd4a3297811cc18b08c5ceb1f05a91
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\98\984647117bb07ee9a32c3c3bccb4a7ab
+      fullPath: C:\Users\jakeb\TTGM\Gamemaker\Library\Artifacts\98\984647117bb07ee9a32c3c3bccb4a7ab
+      projectPath: Library\Artifacts\98\984647117bb07ee9a32c3c3bccb4a7ab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\9a\9adb2eb15fcf584def200cd8be8ad396
+      fullPath: C:\Users\jakeb\TTGM\Gamemaker\Library\Artifacts\9a\9adb2eb15fcf584def200cd8be8ad396
+      projectPath: Library\Artifacts\9a\9adb2eb15fcf584def200cd8be8ad396
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\ae\ae45b379c6dc7daed4f3cad84523846f
+      fullPath: C:\Users\jakeb\TTGM\Gamemaker\Library\Artifacts\ae\ae45b379c6dc7daed4f3cad84523846f
+      projectPath: Library\Artifacts\ae\ae45b379c6dc7daed4f3cad84523846f
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\b6\b694cd6eab5981979e204d7974c5e5a9
+      fullPath: C:\Users\jakeb\TTGM\Gamemaker\Library\Artifacts\b6\b694cd6eab5981979e204d7974c5e5a9
+      projectPath: Library\Artifacts\b6\b694cd6eab5981979e204d7974c5e5a9
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\c1\c1aead4d59ccf95872f2e658c228790a
+      fullPath: C:\Users\jakeb\TTGM\Gamemaker\Library\Artifacts\c1\c1aead4d59ccf95872f2e658c228790a
+      projectPath: Library\Artifacts\c1\c1aead4d59ccf95872f2e658c228790a
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\Artifacts\cb\cb176e5915b04251bdc913c487bfd72f
+      fullPath: C:\Users\jakeb\TTGM\Gamemaker\Library\Artifacts\cb\cb176e5915b04251bdc913c487bfd72f
+      projectPath: Library\Artifacts\cb\cb176e5915b04251bdc913c487bfd72f
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\d8\d879a3583233ffca312a48b1ecf2bcfc
+      fullPath: C:\Users\jakeb\TTGM\Gamemaker\Library\Artifacts\d8\d879a3583233ffca312a48b1ecf2bcfc
+      projectPath: Library\Artifacts\d8\d879a3583233ffca312a48b1ecf2bcfc
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\d8\d8a06bedb61f009be09eef5202f3045a
+      fullPath: C:\Users\jakeb\TTGM\Gamemaker\Library\Artifacts\d8\d8a06bedb61f009be09eef5202f3045a
+      projectPath: Library\Artifacts\d8\d8a06bedb61f009be09eef5202f3045a
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\e1\e177e64bfc7af0fb6022fe3a1e1ab80e
+      fullPath: C:\Users\jakeb\TTGM\Gamemaker\Library\Artifacts\e1\e177e64bfc7af0fb6022fe3a1e1ab80e
+      projectPath: Library\Artifacts\e1\e177e64bfc7af0fb6022fe3a1e1ab80e
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\e6\e69f029e94e40312193c99020e10a6be
+      fullPath: C:\Users\jakeb\TTGM\Gamemaker\Library\Artifacts\e6\e69f029e94e40312193c99020e10a6be
+      projectPath: Library\Artifacts\e6\e69f029e94e40312193c99020e10a6be
+      originalPath: Library\Artifacts\4d\4d9a5add1e9503be8ac3e2bc2c1b40c0
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Library\Artifacts\ea\eaef561f750651ed1fcdf100c556fd69
+      fullPath: C:\Users\jakeb\TTGM\Gamemaker\Library\Artifacts\ea\eaef561f750651ed1fcdf100c556fd69
+      projectPath: Library\Artifacts\ea\eaef561f750651ed1fcdf100c556fd69
+      originalPath: Library\Artifacts\99\99c5c86bbf6a334a1795d1598c35f250
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Library\Artifacts\ec\ec60fe98378461d9c0f2a0197841b376
+      fullPath: C:\Users\jakeb\TTGM\Gamemaker\Library\Artifacts\ec\ec60fe98378461d9c0f2a0197841b376
+      projectPath: Library\Artifacts\ec\ec60fe98378461d9c0f2a0197841b376
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\f5\f57fe39eef9726684e2a7ef5efb78859
+      fullPath: C:\Users\jakeb\TTGM\Gamemaker\Library\Artifacts\f5\f57fe39eef9726684e2a7ef5efb78859
+      projectPath: Library\Artifacts\f5\f57fe39eef9726684e2a7ef5efb78859
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\f9\f93baec8a47d7199c7706cf9f2464beb
+      fullPath: C:\Users\jakeb\TTGM\Gamemaker\Library\Artifacts\f9\f93baec8a47d7199c7706cf9f2464beb
+      projectPath: Library\Artifacts\f9\f93baec8a47d7199c7706cf9f2464beb
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\ff\ffd8914e0ccda982a0c31023555f979d
+      fullPath: C:\Users\jakeb\TTGM\Gamemaker\Library\Artifacts\ff\ffd8914e0ccda982a0c31023555f979d
+      projectPath: Library\Artifacts\ff\ffd8914e0ccda982a0c31023555f979d
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\CurrentLayout-default.dwlt
+      fullPath: C:\Users\jakeb\TTGM\Gamemaker\Library\CurrentLayout-default.dwlt
+      projectPath: Library\CurrentLayout-default.dwlt
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\InspectorExpandedItems.asset
+      fullPath: C:\Users\jakeb\TTGM\Gamemaker\Library\InspectorExpandedItems.asset
+      projectPath: Library\InspectorExpandedItems.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\LastSceneManagerSetup.txt
+      fullPath: C:\Users\jakeb\TTGM\Gamemaker\Library\LastSceneManagerSetup.txt
+      projectPath: Library\LastSceneManagerSetup.txt
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\PackageManager\ProjectCache
+      fullPath: C:\Users\jakeb\TTGM\Gamemaker\Library\PackageManager\ProjectCache
+      projectPath: Library\PackageManager\ProjectCache
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\PackageManager\ProjectCache.md5
+      fullPath: C:\Users\jakeb\TTGM\Gamemaker\Library\PackageManager\ProjectCache.md5
+      projectPath: Library\PackageManager\ProjectCache.md5
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\SceneVisibilityState.asset
+      fullPath: C:\Users\jakeb\TTGM\Gamemaker\Library\SceneVisibilityState.asset
+      projectPath: Library\SceneVisibilityState.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+      fullPath: C:\Users\jakeb\TTGM\Gamemaker\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
+      fullPath: C:\Users\jakeb\TTGM\Gamemaker\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Assembly-CSharp.dll
+      fullPath: C:\Users\jakeb\TTGM\Gamemaker\Library\ScriptAssemblies\Assembly-CSharp.dll
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Assembly-CSharp.pdb
+      fullPath: C:\Users\jakeb\TTGM\Gamemaker\Library\ScriptAssemblies\Assembly-CSharp.pdb
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\BuiltinAssemblies.stamp
+      fullPath: C:\Users\jakeb\TTGM\Gamemaker\Library\ScriptAssemblies\BuiltinAssemblies.stamp
+      projectPath: Library\ScriptAssemblies\BuiltinAssemblies.stamp
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+      fullPath: C:\Users\jakeb\TTGM\Gamemaker\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+      projectPath: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.CollabProxy.Editor.pdb
+      fullPath: C:\Users\jakeb\TTGM\Gamemaker\Library\ScriptAssemblies\Unity.CollabProxy.Editor.pdb
+      projectPath: Library\ScriptAssemblies\Unity.CollabProxy.Editor.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll
+      fullPath: C:\Users\jakeb\TTGM\Gamemaker\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll
+      projectPath: Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.PlasticSCM.Editor.pdb
+      fullPath: C:\Users\jakeb\TTGM\Gamemaker\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.pdb
+      projectPath: Library\ScriptAssemblies\Unity.PlasticSCM.Editor.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.Rider.Editor.dll
+      fullPath: C:\Users\jakeb\TTGM\Gamemaker\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+      projectPath: Library\ScriptAssemblies\Unity.Rider.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.Rider.Editor.pdb
+      fullPath: C:\Users\jakeb\TTGM\Gamemaker\Library\ScriptAssemblies\Unity.Rider.Editor.pdb
+      projectPath: Library\ScriptAssemblies\Unity.Rider.Editor.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.Services.Core.Editor.dll
+      fullPath: C:\Users\jakeb\TTGM\Gamemaker\Library\ScriptAssemblies\Unity.Services.Core.Editor.dll
+      projectPath: Library\ScriptAssemblies\Unity.Services.Core.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.Services.Core.Editor.pdb
+      fullPath: C:\Users\jakeb\TTGM\Gamemaker\Library\ScriptAssemblies\Unity.Services.Core.Editor.pdb
+      projectPath: Library\ScriptAssemblies\Unity.Services.Core.Editor.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+      fullPath: C:\Users\jakeb\TTGM\Gamemaker\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+      projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.pdb
+      fullPath: C:\Users\jakeb\TTGM\Gamemaker\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.pdb
+      projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.TextMeshPro.dll
+      fullPath: C:\Users\jakeb\TTGM\Gamemaker\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+      projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.TextMeshPro.pdb
+      fullPath: C:\Users\jakeb\TTGM\Gamemaker\Library\ScriptAssemblies\Unity.TextMeshPro.pdb
+      projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+      fullPath: C:\Users\jakeb\TTGM\Gamemaker\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+      projectPath: Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.Timeline.Editor.pdb
+      fullPath: C:\Users\jakeb\TTGM\Gamemaker\Library\ScriptAssemblies\Unity.Timeline.Editor.pdb
+      projectPath: Library\ScriptAssemblies\Unity.Timeline.Editor.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.Timeline.dll
+      fullPath: C:\Users\jakeb\TTGM\Gamemaker\Library\ScriptAssemblies\Unity.Timeline.dll
+      projectPath: Library\ScriptAssemblies\Unity.Timeline.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.Timeline.pdb
+      fullPath: C:\Users\jakeb\TTGM\Gamemaker\Library\ScriptAssemblies\Unity.Timeline.pdb
+      projectPath: Library\ScriptAssemblies\Unity.Timeline.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+      fullPath: C:\Users\jakeb\TTGM\Gamemaker\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+      projectPath: Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.VSCode.Editor.pdb
+      fullPath: C:\Users\jakeb\TTGM\Gamemaker\Library\ScriptAssemblies\Unity.VSCode.Editor.pdb
+      projectPath: Library\ScriptAssemblies\Unity.VSCode.Editor.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
+      fullPath: C:\Users\jakeb\TTGM\Gamemaker\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
+      projectPath: Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.VisualStudio.Editor.pdb
+      fullPath: C:\Users\jakeb\TTGM\Gamemaker\Library\ScriptAssemblies\Unity.VisualStudio.Editor.pdb
+      projectPath: Library\ScriptAssemblies\Unity.VisualStudio.Editor.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+      fullPath: C:\Users\jakeb\TTGM\Gamemaker\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+      projectPath: Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\UnityEditor.TestRunner.pdb
+      fullPath: C:\Users\jakeb\TTGM\Gamemaker\Library\ScriptAssemblies\UnityEditor.TestRunner.pdb
+      projectPath: Library\ScriptAssemblies\UnityEditor.TestRunner.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\UnityEditor.UI.dll
+      fullPath: C:\Users\jakeb\TTGM\Gamemaker\Library\ScriptAssemblies\UnityEditor.UI.dll
+      projectPath: Library\ScriptAssemblies\UnityEditor.UI.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\UnityEditor.UI.pdb
+      fullPath: C:\Users\jakeb\TTGM\Gamemaker\Library\ScriptAssemblies\UnityEditor.UI.pdb
+      projectPath: Library\ScriptAssemblies\UnityEditor.UI.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+      fullPath: C:\Users\jakeb\TTGM\Gamemaker\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+      projectPath: Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\UnityEngine.TestRunner.pdb
+      fullPath: C:\Users\jakeb\TTGM\Gamemaker\Library\ScriptAssemblies\UnityEngine.TestRunner.pdb
+      projectPath: Library\ScriptAssemblies\UnityEngine.TestRunner.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\UnityEngine.UI.dll
+      fullPath: C:\Users\jakeb\TTGM\Gamemaker\Library\ScriptAssemblies\UnityEngine.UI.dll
+      projectPath: Library\ScriptAssemblies\UnityEngine.UI.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\UnityEngine.UI.pdb
+      fullPath: C:\Users\jakeb\TTGM\Gamemaker\Library\ScriptAssemblies\UnityEngine.UI.pdb
+      projectPath: Library\ScriptAssemblies\UnityEngine.UI.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\SourceAssetDB
+      fullPath: C:\Users\jakeb\TTGM\Gamemaker\Library\SourceAssetDB
+      projectPath: Library\SourceAssetDB
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\SourceAssetDB-lock
+      fullPath: C:\Users\jakeb\TTGM\Gamemaker\Library\SourceAssetDB-lock
+      projectPath: Library\SourceAssetDB-lock
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\StateCache\SceneView\8b\8b0d1387a24a688f32df764794220fab.json
+      fullPath: C:\Users\jakeb\TTGM\Gamemaker\Library\StateCache\SceneView\8b\8b0d1387a24a688f32df764794220fab.json
+      projectPath: Library\StateCache\SceneView\8b\8b0d1387a24a688f32df764794220fab.json
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\expandedItems
+      fullPath: C:\Users\jakeb\TTGM\Gamemaker\Library\expandedItems
+      projectPath: Library\expandedItems
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\branches.yaml
+      fullPath: C:\Users\jakeb\TTGM\Gamemaker\Library\gfu\cache\branches.yaml
+      projectPath: Library\gfu\cache\branches.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitlocks.yaml
+      fullPath: C:\Users\jakeb\TTGM\Gamemaker\Library\gfu\cache\gitlocks.yaml
+      projectPath: Library\gfu\cache\gitlocks.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitlog.yaml
+      fullPath: C:\Users\jakeb\TTGM\Gamemaker\Library\gfu\cache\gitlog.yaml
+      projectPath: Library\gfu\cache\gitlog.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitstatusentries.yaml
+      fullPath: C:\Users\jakeb\TTGM\Gamemaker\Library\gfu\cache\gitstatusentries.yaml
+      projectPath: Library\gfu\cache\gitstatusentries.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gittrackingstatus.yaml
+      fullPath: C:\Users\jakeb\TTGM\Gamemaker\Library\gfu\cache\gittrackingstatus.yaml
+      projectPath: Library\gfu\cache\gittrackingstatus.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\repoinfo.yaml
+      fullPath: C:\Users\jakeb\TTGM\Gamemaker\Library\gfu\cache\repoinfo.yaml
+      projectPath: Library\gfu\cache\repoinfo.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Logs\ApiUpdaterCheck.txt
+      fullPath: C:\Users\jakeb\TTGM\Gamemaker\Logs\ApiUpdaterCheck.txt
+      projectPath: Logs\ApiUpdaterCheck.txt
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Logs\AssetImportWorker0-prev.log
+      fullPath: C:\Users\jakeb\TTGM\Gamemaker\Logs\AssetImportWorker0-prev.log
+      projectPath: Logs\AssetImportWorker0-prev.log
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Logs\AssetImportWorker0.log
+      fullPath: C:\Users\jakeb\TTGM\Gamemaker\Logs\AssetImportWorker0.log
+      projectPath: Logs\AssetImportWorker0.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Logs\shadercompiler-UnityShaderCompiler.exe1.log
+      fullPath: C:\Users\jakeb\TTGM\Gamemaker\Logs\shadercompiler-UnityShaderCompiler.exe1.log
+      projectPath: Logs\shadercompiler-UnityShaderCompiler.exe1.log
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Logs\shadercompiler-UnityShaderCompiler.exe2.log
+      fullPath: C:\Users\jakeb\TTGM\Gamemaker\Logs\shadercompiler-UnityShaderCompiler.exe2.log
+      projectPath: Logs\shadercompiler-UnityShaderCompiler.exe2.log
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: ProjectSettings\EditorBuildSettings.asset
+      fullPath: C:\Users\jakeb\TTGM\Gamemaker\ProjectSettings\EditorBuildSettings.asset
+      projectPath: ProjectSettings\EditorBuildSettings.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: UserSettings\EditorUserSettings.asset
+      fullPath: C:\Users\jakeb\TTGM\Gamemaker\UserSettings\EditorUserSettings.asset
+      projectPath: UserSettings\EditorUserSettings.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
   - commitID: e5150f5f1473f4941ddad7d8bc06b8f846d45ba3
     mergeA: 
     mergeB: 

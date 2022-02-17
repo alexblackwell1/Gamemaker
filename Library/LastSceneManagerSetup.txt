@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/CreateLoadScreen.unity
+- path: Assets/Scenes/7-Player.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
