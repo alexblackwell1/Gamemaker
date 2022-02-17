@@ -13,9 +13,153 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2022-02-17T16:00:11.723-05:00
+  lastUpdatedAtString: 2022-02-17T16:09:02.417-05:00
   initializedAtString: 2022-02-17T16:00:11.723-05:00
   log:
+  - commitID: 4197d8e9debde4188929f50153598c6f34360657
+    mergeA: 
+    mergeB: 
+    authorName: billyjp1
+    authorEmail: billyjp@appstate.edu
+    commitEmail: billyjp@appstate.edu
+    commitName: billyjp1
+    summary: Some changes from collab, using ignore
+    description: 
+    timeString: 2022-02-17T16:05:45.000-05:00
+    commitTimeString: 2022-02-17T16:05:45.000-05:00
+    changes:
+    - path: .gitignore
+      fullPath: C:\Users\jakeb\TTGM\Gamemaker\.gitignore
+      projectPath: .gitignore
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Scenes\1-Start.unity
+      fullPath: C:\Users\jakeb\TTGM\Gamemaker\Assets\Scenes\1-Start.unity
+      projectPath: Assets\Scenes\1-Start.unity
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Scenes\2-Create.unity
+      fullPath: C:\Users\jakeb\TTGM\Gamemaker\Assets\Scenes\2-Create.unity
+      projectPath: Assets\Scenes\2-Create.unity
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Scenes\3-Info.unity
+      fullPath: C:\Users\jakeb\TTGM\Gamemaker\Assets\Scenes\3-Info.unity
+      projectPath: Assets\Scenes\3-Info.unity
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Scenes\5-Stats.unity
+      fullPath: C:\Users\jakeb\TTGM\Gamemaker\Assets\Scenes\5-Stats.unity
+      projectPath: Assets\Scenes\5-Stats.unity
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ArtifactDB
+      fullPath: C:\Users\jakeb\TTGM\Gamemaker\Library\ArtifactDB
+      projectPath: Library\ArtifactDB
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\Collab\CollabSnapshot_f76c6d7d-4ac5-4252-82f9-c1facf37c74a.txt
+      fullPath: C:\Users\jakeb\TTGM\Gamemaker\Library\Collab\CollabSnapshot_f76c6d7d-4ac5-4252-82f9-c1facf37c74a.txt
+      projectPath: Library\Collab\CollabSnapshot_f76c6d7d-4ac5-4252-82f9-c1facf37c74a.txt
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\CurrentLayout-default.dwlt
+      fullPath: C:\Users\jakeb\TTGM\Gamemaker\Library\CurrentLayout-default.dwlt
+      projectPath: Library\CurrentLayout-default.dwlt
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\EditorInstance.json
+      fullPath: C:\Users\jakeb\TTGM\Gamemaker\Library\EditorInstance.json
+      projectPath: Library\EditorInstance.json
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\LastSceneManagerSetup.txt
+      fullPath: C:\Users\jakeb\TTGM\Gamemaker\Library\LastSceneManagerSetup.txt
+      projectPath: Library\LastSceneManagerSetup.txt
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\SceneVisibilityState.asset
+      fullPath: C:\Users\jakeb\TTGM\Gamemaker\Library\SceneVisibilityState.asset
+      projectPath: Library\SceneVisibilityState.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\SourceAssetDB
+      fullPath: C:\Users\jakeb\TTGM\Gamemaker\Library\SourceAssetDB
+      projectPath: Library\SourceAssetDB
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\StateCache\MainStageHierarchy\8f\8fd65426490f636435c901d65ce7ed24.json
+      fullPath: C:\Users\jakeb\TTGM\Gamemaker\Library\StateCache\MainStageHierarchy\8f\8fd65426490f636435c901d65ce7ed24.json
+      projectPath: Library\StateCache\MainStageHierarchy\8f\8fd65426490f636435c901d65ce7ed24.json
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\branches.yaml
+      fullPath: C:\Users\jakeb\TTGM\Gamemaker\Library\gfu\cache\branches.yaml
+      projectPath: Library\gfu\cache\branches.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitlocks.yaml
+      fullPath: C:\Users\jakeb\TTGM\Gamemaker\Library\gfu\cache\gitlocks.yaml
+      projectPath: Library\gfu\cache\gitlocks.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitlog.yaml
+      fullPath: C:\Users\jakeb\TTGM\Gamemaker\Library\gfu\cache\gitlog.yaml
+      projectPath: Library\gfu\cache\gitlog.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitstatusentries.yaml
+      fullPath: C:\Users\jakeb\TTGM\Gamemaker\Library\gfu\cache\gitstatusentries.yaml
+      projectPath: Library\gfu\cache\gitstatusentries.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gittrackingstatus.yaml
+      fullPath: C:\Users\jakeb\TTGM\Gamemaker\Library\gfu\cache\gittrackingstatus.yaml
+      projectPath: Library\gfu\cache\gittrackingstatus.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\repoinfo.yaml
+      fullPath: C:\Users\jakeb\TTGM\Gamemaker\Library\gfu\cache\repoinfo.yaml
+      projectPath: Library\gfu\cache\repoinfo.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Logs\AssetImportWorker0-prev.log
+      fullPath: C:\Users\jakeb\TTGM\Gamemaker\Logs\AssetImportWorker0-prev.log
+      projectPath: Logs\AssetImportWorker0-prev.log
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Logs\shadercompiler-UnityShaderCompiler.exe0.log
+      fullPath: C:\Users\jakeb\TTGM\Gamemaker\Logs\shadercompiler-UnityShaderCompiler.exe0.log
+      projectPath: Logs\shadercompiler-UnityShaderCompiler.exe0.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: UserSettings\EditorUserSettings.asset
+      fullPath: C:\Users\jakeb\TTGM\Gamemaker\UserSettings\EditorUserSettings.asset
+      projectPath: UserSettings\EditorUserSettings.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
   - commitID: 9a3aeb7396e8e7076ba4e34f782e8d24226f0aa4
     mergeA: 
     mergeB: 
