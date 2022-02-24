@@ -26,4 +26,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/7-Player.unity
     guid: adf26d2af1d267948a71f9a1e27efbc9
+  - enabled: 1
+    path: Assets/Scenes/TestBoard.unity
+    guid: 58f7f82cb7517f940b36cd77f048e9fe
   m_configObjects: {}
