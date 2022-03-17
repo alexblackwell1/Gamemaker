@@ -29,4 +29,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/TestBoard.unity
     guid: 58f7f82cb7517f940b36cd77f048e9fe
+  - enabled: 1
+    path: Assets/Scenes/LocationSelect.unity
+    guid: b5b648fab6c24c54881da7e7568af0e4
   m_configObjects: {}

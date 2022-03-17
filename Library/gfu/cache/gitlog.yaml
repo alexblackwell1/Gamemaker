@@ -13,9 +13,923 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2022-02-24T16:40:16.802-05:00
-  initializedAtString: 2022-02-24T14:00:01.233-05:00
+  lastUpdatedAtString: 2022-03-17T14:58:03.716-04:00
+  initializedAtString: 2022-03-17T13:58:02.400-04:00
   log:
+  - commitID: d3539928bc5d24054f62d55db778263ff7d2039b
+    mergeA: 
+    mergeB: 
+    authorName: alexblackwell1
+    authorEmail: blackwellag@appstate.edu
+    commitEmail: blackwellag@appstate.edu
+    commitName: alexblackwell1
+    summary: 2/24 card prefab assigning image
+    description: 
+    timeString: 2022-02-24T16:52:22.000-05:00
+    commitTimeString: 2022-02-24T16:52:22.000-05:00
+    changes:
+    - path: Assets\Prefabs\Card.prefab
+      fullPath: C:\Users\User\Documents\Gamemaker\Assets\Prefabs\Card.prefab
+      projectPath: Assets\Prefabs\Card.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs\Card.prefab.meta
+      fullPath: C:\Users\User\Documents\Gamemaker\Assets\Prefabs\Card.prefab.meta
+      projectPath: Assets\Prefabs\Card.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\Boards.meta
+      fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\Boards.meta
+      projectPath: Assets\Resources\Boards.meta
+      originalPath: Assets\Boards.meta
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Assets\Resources\Boards\wood-600x480.jpg
+      fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\Boards\wood-600x480.jpg
+      projectPath: Assets\Resources\Boards\wood-600x480.jpg
+      originalPath: Assets\Boards\wood-600x480.jpg
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Assets\Resources\Boards\wood-600x480.jpg.meta
+      fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\Boards\wood-600x480.jpg.meta
+      projectPath: Assets\Resources\Boards\wood-600x480.jpg.meta
+      originalPath: Assets\Boards\wood-600x480.jpg.meta
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Assets\Resources\GameElements.meta
+      fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\GameElements.meta
+      projectPath: Assets\Resources\GameElements.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\GameElements\PlayingCards.meta
+      fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\GameElements\PlayingCards.meta
+      projectPath: Assets\Resources\GameElements\PlayingCards.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\GameElements\PlayingCards\C10.png
+      fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\GameElements\PlayingCards\C10.png
+      projectPath: Assets\Resources\GameElements\PlayingCards\C10.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\GameElements\PlayingCards\C10.png.meta
+      fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\GameElements\PlayingCards\C10.png.meta
+      projectPath: Assets\Resources\GameElements\PlayingCards\C10.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\GameElements\PlayingCards\C2.png
+      fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\GameElements\PlayingCards\C2.png
+      projectPath: Assets\Resources\GameElements\PlayingCards\C2.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\GameElements\PlayingCards\C2.png.meta
+      fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\GameElements\PlayingCards\C2.png.meta
+      projectPath: Assets\Resources\GameElements\PlayingCards\C2.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\GameElements\PlayingCards\C3.png
+      fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\GameElements\PlayingCards\C3.png
+      projectPath: Assets\Resources\GameElements\PlayingCards\C3.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\GameElements\PlayingCards\C3.png.meta
+      fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\GameElements\PlayingCards\C3.png.meta
+      projectPath: Assets\Resources\GameElements\PlayingCards\C3.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\GameElements\PlayingCards\C4.png
+      fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\GameElements\PlayingCards\C4.png
+      projectPath: Assets\Resources\GameElements\PlayingCards\C4.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\GameElements\PlayingCards\C4.png.meta
+      fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\GameElements\PlayingCards\C4.png.meta
+      projectPath: Assets\Resources\GameElements\PlayingCards\C4.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\GameElements\PlayingCards\C5.png
+      fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\GameElements\PlayingCards\C5.png
+      projectPath: Assets\Resources\GameElements\PlayingCards\C5.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\GameElements\PlayingCards\C5.png.meta
+      fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\GameElements\PlayingCards\C5.png.meta
+      projectPath: Assets\Resources\GameElements\PlayingCards\C5.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\GameElements\PlayingCards\C6.png
+      fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\GameElements\PlayingCards\C6.png
+      projectPath: Assets\Resources\GameElements\PlayingCards\C6.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\GameElements\PlayingCards\C6.png.meta
+      fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\GameElements\PlayingCards\C6.png.meta
+      projectPath: Assets\Resources\GameElements\PlayingCards\C6.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\GameElements\PlayingCards\C7.png
+      fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\GameElements\PlayingCards\C7.png
+      projectPath: Assets\Resources\GameElements\PlayingCards\C7.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\GameElements\PlayingCards\C7.png.meta
+      fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\GameElements\PlayingCards\C7.png.meta
+      projectPath: Assets\Resources\GameElements\PlayingCards\C7.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\GameElements\PlayingCards\C8.png
+      fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\GameElements\PlayingCards\C8.png
+      projectPath: Assets\Resources\GameElements\PlayingCards\C8.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\GameElements\PlayingCards\C8.png.meta
+      fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\GameElements\PlayingCards\C8.png.meta
+      projectPath: Assets\Resources\GameElements\PlayingCards\C8.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\GameElements\PlayingCards\C9.png
+      fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\GameElements\PlayingCards\C9.png
+      projectPath: Assets\Resources\GameElements\PlayingCards\C9.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\GameElements\PlayingCards\C9.png.meta
+      fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\GameElements\PlayingCards\C9.png.meta
+      projectPath: Assets\Resources\GameElements\PlayingCards\C9.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\GameElements\PlayingCards\CA.png
+      fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\GameElements\PlayingCards\CA.png
+      projectPath: Assets\Resources\GameElements\PlayingCards\CA.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\GameElements\PlayingCards\CA.png.meta
+      fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\GameElements\PlayingCards\CA.png.meta
+      projectPath: Assets\Resources\GameElements\PlayingCards\CA.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\GameElements\PlayingCards\CJ.png
+      fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\GameElements\PlayingCards\CJ.png
+      projectPath: Assets\Resources\GameElements\PlayingCards\CJ.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\GameElements\PlayingCards\CJ.png.meta
+      fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\GameElements\PlayingCards\CJ.png.meta
+      projectPath: Assets\Resources\GameElements\PlayingCards\CJ.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\GameElements\PlayingCards\CK.png
+      fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\GameElements\PlayingCards\CK.png
+      projectPath: Assets\Resources\GameElements\PlayingCards\CK.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\GameElements\PlayingCards\CK.png.meta
+      fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\GameElements\PlayingCards\CK.png.meta
+      projectPath: Assets\Resources\GameElements\PlayingCards\CK.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\GameElements\PlayingCards\CQ.png
+      fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\GameElements\PlayingCards\CQ.png
+      projectPath: Assets\Resources\GameElements\PlayingCards\CQ.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\GameElements\PlayingCards\CQ.png.meta
+      fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\GameElements\PlayingCards\CQ.png.meta
+      projectPath: Assets\Resources\GameElements\PlayingCards\CQ.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\GameElements\PlayingCards\Card Prefab.prefab
+      fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\GameElements\PlayingCards\Card
+        Prefab.prefab
+      projectPath: Assets\Resources\GameElements\PlayingCards\Card Prefab.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\GameElements\PlayingCards\Card Prefab.prefab.meta
+      fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\GameElements\PlayingCards\Card
+        Prefab.prefab.meta
+      projectPath: Assets\Resources\GameElements\PlayingCards\Card Prefab.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\GameElements\PlayingCards\D10.png
+      fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\GameElements\PlayingCards\D10.png
+      projectPath: Assets\Resources\GameElements\PlayingCards\D10.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\GameElements\PlayingCards\D10.png.meta
+      fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\GameElements\PlayingCards\D10.png.meta
+      projectPath: Assets\Resources\GameElements\PlayingCards\D10.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\GameElements\PlayingCards\D2.png
+      fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\GameElements\PlayingCards\D2.png
+      projectPath: Assets\Resources\GameElements\PlayingCards\D2.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\GameElements\PlayingCards\D2.png.meta
+      fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\GameElements\PlayingCards\D2.png.meta
+      projectPath: Assets\Resources\GameElements\PlayingCards\D2.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\GameElements\PlayingCards\D3.png
+      fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\GameElements\PlayingCards\D3.png
+      projectPath: Assets\Resources\GameElements\PlayingCards\D3.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\GameElements\PlayingCards\D3.png.meta
+      fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\GameElements\PlayingCards\D3.png.meta
+      projectPath: Assets\Resources\GameElements\PlayingCards\D3.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\GameElements\PlayingCards\D4.png
+      fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\GameElements\PlayingCards\D4.png
+      projectPath: Assets\Resources\GameElements\PlayingCards\D4.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\GameElements\PlayingCards\D4.png.meta
+      fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\GameElements\PlayingCards\D4.png.meta
+      projectPath: Assets\Resources\GameElements\PlayingCards\D4.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\GameElements\PlayingCards\D5.png
+      fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\GameElements\PlayingCards\D5.png
+      projectPath: Assets\Resources\GameElements\PlayingCards\D5.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\GameElements\PlayingCards\D5.png.meta
+      fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\GameElements\PlayingCards\D5.png.meta
+      projectPath: Assets\Resources\GameElements\PlayingCards\D5.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\GameElements\PlayingCards\D6.png
+      fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\GameElements\PlayingCards\D6.png
+      projectPath: Assets\Resources\GameElements\PlayingCards\D6.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\GameElements\PlayingCards\D6.png.meta
+      fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\GameElements\PlayingCards\D6.png.meta
+      projectPath: Assets\Resources\GameElements\PlayingCards\D6.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\GameElements\PlayingCards\D7.png
+      fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\GameElements\PlayingCards\D7.png
+      projectPath: Assets\Resources\GameElements\PlayingCards\D7.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\GameElements\PlayingCards\D7.png.meta
+      fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\GameElements\PlayingCards\D7.png.meta
+      projectPath: Assets\Resources\GameElements\PlayingCards\D7.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\GameElements\PlayingCards\D8.png
+      fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\GameElements\PlayingCards\D8.png
+      projectPath: Assets\Resources\GameElements\PlayingCards\D8.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\GameElements\PlayingCards\D8.png.meta
+      fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\GameElements\PlayingCards\D8.png.meta
+      projectPath: Assets\Resources\GameElements\PlayingCards\D8.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\GameElements\PlayingCards\D9.png
+      fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\GameElements\PlayingCards\D9.png
+      projectPath: Assets\Resources\GameElements\PlayingCards\D9.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\GameElements\PlayingCards\D9.png.meta
+      fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\GameElements\PlayingCards\D9.png.meta
+      projectPath: Assets\Resources\GameElements\PlayingCards\D9.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\GameElements\PlayingCards\DA.png
+      fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\GameElements\PlayingCards\DA.png
+      projectPath: Assets\Resources\GameElements\PlayingCards\DA.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\GameElements\PlayingCards\DA.png.meta
+      fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\GameElements\PlayingCards\DA.png.meta
+      projectPath: Assets\Resources\GameElements\PlayingCards\DA.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\GameElements\PlayingCards\DJ.png
+      fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\GameElements\PlayingCards\DJ.png
+      projectPath: Assets\Resources\GameElements\PlayingCards\DJ.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\GameElements\PlayingCards\DJ.png.meta
+      fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\GameElements\PlayingCards\DJ.png.meta
+      projectPath: Assets\Resources\GameElements\PlayingCards\DJ.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\GameElements\PlayingCards\DK.png
+      fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\GameElements\PlayingCards\DK.png
+      projectPath: Assets\Resources\GameElements\PlayingCards\DK.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\GameElements\PlayingCards\DK.png.meta
+      fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\GameElements\PlayingCards\DK.png.meta
+      projectPath: Assets\Resources\GameElements\PlayingCards\DK.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\GameElements\PlayingCards\DQ.png
+      fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\GameElements\PlayingCards\DQ.png
+      projectPath: Assets\Resources\GameElements\PlayingCards\DQ.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\GameElements\PlayingCards\DQ.png.meta
+      fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\GameElements\PlayingCards\DQ.png.meta
+      projectPath: Assets\Resources\GameElements\PlayingCards\DQ.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\GameElements\PlayingCards\H10.png
+      fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\GameElements\PlayingCards\H10.png
+      projectPath: Assets\Resources\GameElements\PlayingCards\H10.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\GameElements\PlayingCards\H10.png.meta
+      fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\GameElements\PlayingCards\H10.png.meta
+      projectPath: Assets\Resources\GameElements\PlayingCards\H10.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\GameElements\PlayingCards\H2.png
+      fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\GameElements\PlayingCards\H2.png
+      projectPath: Assets\Resources\GameElements\PlayingCards\H2.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\GameElements\PlayingCards\H2.png.meta
+      fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\GameElements\PlayingCards\H2.png.meta
+      projectPath: Assets\Resources\GameElements\PlayingCards\H2.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\GameElements\PlayingCards\H3.png
+      fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\GameElements\PlayingCards\H3.png
+      projectPath: Assets\Resources\GameElements\PlayingCards\H3.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\GameElements\PlayingCards\H3.png.meta
+      fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\GameElements\PlayingCards\H3.png.meta
+      projectPath: Assets\Resources\GameElements\PlayingCards\H3.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\GameElements\PlayingCards\H4.png
+      fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\GameElements\PlayingCards\H4.png
+      projectPath: Assets\Resources\GameElements\PlayingCards\H4.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\GameElements\PlayingCards\H4.png.meta
+      fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\GameElements\PlayingCards\H4.png.meta
+      projectPath: Assets\Resources\GameElements\PlayingCards\H4.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\GameElements\PlayingCards\H5.png
+      fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\GameElements\PlayingCards\H5.png
+      projectPath: Assets\Resources\GameElements\PlayingCards\H5.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\GameElements\PlayingCards\H5.png.meta
+      fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\GameElements\PlayingCards\H5.png.meta
+      projectPath: Assets\Resources\GameElements\PlayingCards\H5.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\GameElements\PlayingCards\H6.png
+      fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\GameElements\PlayingCards\H6.png
+      projectPath: Assets\Resources\GameElements\PlayingCards\H6.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\GameElements\PlayingCards\H6.png.meta
+      fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\GameElements\PlayingCards\H6.png.meta
+      projectPath: Assets\Resources\GameElements\PlayingCards\H6.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\GameElements\PlayingCards\H7.png
+      fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\GameElements\PlayingCards\H7.png
+      projectPath: Assets\Resources\GameElements\PlayingCards\H7.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\GameElements\PlayingCards\H7.png.meta
+      fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\GameElements\PlayingCards\H7.png.meta
+      projectPath: Assets\Resources\GameElements\PlayingCards\H7.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\GameElements\PlayingCards\H8.png
+      fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\GameElements\PlayingCards\H8.png
+      projectPath: Assets\Resources\GameElements\PlayingCards\H8.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\GameElements\PlayingCards\H8.png.meta
+      fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\GameElements\PlayingCards\H8.png.meta
+      projectPath: Assets\Resources\GameElements\PlayingCards\H8.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\GameElements\PlayingCards\H9.png
+      fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\GameElements\PlayingCards\H9.png
+      projectPath: Assets\Resources\GameElements\PlayingCards\H9.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\GameElements\PlayingCards\H9.png.meta
+      fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\GameElements\PlayingCards\H9.png.meta
+      projectPath: Assets\Resources\GameElements\PlayingCards\H9.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\GameElements\PlayingCards\HA.png
+      fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\GameElements\PlayingCards\HA.png
+      projectPath: Assets\Resources\GameElements\PlayingCards\HA.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\GameElements\PlayingCards\HA.png.meta
+      fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\GameElements\PlayingCards\HA.png.meta
+      projectPath: Assets\Resources\GameElements\PlayingCards\HA.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\GameElements\PlayingCards\HJ.png
+      fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\GameElements\PlayingCards\HJ.png
+      projectPath: Assets\Resources\GameElements\PlayingCards\HJ.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\GameElements\PlayingCards\HJ.png.meta
+      fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\GameElements\PlayingCards\HJ.png.meta
+      projectPath: Assets\Resources\GameElements\PlayingCards\HJ.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\GameElements\PlayingCards\HK.png
+      fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\GameElements\PlayingCards\HK.png
+      projectPath: Assets\Resources\GameElements\PlayingCards\HK.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\GameElements\PlayingCards\HK.png.meta
+      fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\GameElements\PlayingCards\HK.png.meta
+      projectPath: Assets\Resources\GameElements\PlayingCards\HK.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\GameElements\PlayingCards\HQ.png
+      fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\GameElements\PlayingCards\HQ.png
+      projectPath: Assets\Resources\GameElements\PlayingCards\HQ.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\GameElements\PlayingCards\HQ.png.meta
+      fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\GameElements\PlayingCards\HQ.png.meta
+      projectPath: Assets\Resources\GameElements\PlayingCards\HQ.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\GameElements\PlayingCards\S10.png
+      fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\GameElements\PlayingCards\S10.png
+      projectPath: Assets\Resources\GameElements\PlayingCards\S10.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\GameElements\PlayingCards\S10.png.meta
+      fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\GameElements\PlayingCards\S10.png.meta
+      projectPath: Assets\Resources\GameElements\PlayingCards\S10.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\GameElements\PlayingCards\S2.png
+      fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\GameElements\PlayingCards\S2.png
+      projectPath: Assets\Resources\GameElements\PlayingCards\S2.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\GameElements\PlayingCards\S2.png.meta
+      fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\GameElements\PlayingCards\S2.png.meta
+      projectPath: Assets\Resources\GameElements\PlayingCards\S2.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\GameElements\PlayingCards\S3.png
+      fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\GameElements\PlayingCards\S3.png
+      projectPath: Assets\Resources\GameElements\PlayingCards\S3.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\GameElements\PlayingCards\S3.png.meta
+      fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\GameElements\PlayingCards\S3.png.meta
+      projectPath: Assets\Resources\GameElements\PlayingCards\S3.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\GameElements\PlayingCards\S4.png
+      fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\GameElements\PlayingCards\S4.png
+      projectPath: Assets\Resources\GameElements\PlayingCards\S4.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\GameElements\PlayingCards\S4.png.meta
+      fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\GameElements\PlayingCards\S4.png.meta
+      projectPath: Assets\Resources\GameElements\PlayingCards\S4.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\GameElements\PlayingCards\S5.png
+      fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\GameElements\PlayingCards\S5.png
+      projectPath: Assets\Resources\GameElements\PlayingCards\S5.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\GameElements\PlayingCards\S5.png.meta
+      fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\GameElements\PlayingCards\S5.png.meta
+      projectPath: Assets\Resources\GameElements\PlayingCards\S5.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\GameElements\PlayingCards\S6.png
+      fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\GameElements\PlayingCards\S6.png
+      projectPath: Assets\Resources\GameElements\PlayingCards\S6.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\GameElements\PlayingCards\S6.png.meta
+      fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\GameElements\PlayingCards\S6.png.meta
+      projectPath: Assets\Resources\GameElements\PlayingCards\S6.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\GameElements\PlayingCards\S7.png
+      fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\GameElements\PlayingCards\S7.png
+      projectPath: Assets\Resources\GameElements\PlayingCards\S7.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\GameElements\PlayingCards\S7.png.meta
+      fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\GameElements\PlayingCards\S7.png.meta
+      projectPath: Assets\Resources\GameElements\PlayingCards\S7.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\GameElements\PlayingCards\S8.png
+      fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\GameElements\PlayingCards\S8.png
+      projectPath: Assets\Resources\GameElements\PlayingCards\S8.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\GameElements\PlayingCards\S8.png.meta
+      fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\GameElements\PlayingCards\S8.png.meta
+      projectPath: Assets\Resources\GameElements\PlayingCards\S8.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\GameElements\PlayingCards\S9.png
+      fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\GameElements\PlayingCards\S9.png
+      projectPath: Assets\Resources\GameElements\PlayingCards\S9.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\GameElements\PlayingCards\S9.png.meta
+      fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\GameElements\PlayingCards\S9.png.meta
+      projectPath: Assets\Resources\GameElements\PlayingCards\S9.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\GameElements\PlayingCards\SA.png
+      fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\GameElements\PlayingCards\SA.png
+      projectPath: Assets\Resources\GameElements\PlayingCards\SA.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\GameElements\PlayingCards\SA.png.meta
+      fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\GameElements\PlayingCards\SA.png.meta
+      projectPath: Assets\Resources\GameElements\PlayingCards\SA.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\GameElements\PlayingCards\SJ.png
+      fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\GameElements\PlayingCards\SJ.png
+      projectPath: Assets\Resources\GameElements\PlayingCards\SJ.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\GameElements\PlayingCards\SJ.png.meta
+      fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\GameElements\PlayingCards\SJ.png.meta
+      projectPath: Assets\Resources\GameElements\PlayingCards\SJ.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\GameElements\PlayingCards\SK.png
+      fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\GameElements\PlayingCards\SK.png
+      projectPath: Assets\Resources\GameElements\PlayingCards\SK.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\GameElements\PlayingCards\SK.png.meta
+      fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\GameElements\PlayingCards\SK.png.meta
+      projectPath: Assets\Resources\GameElements\PlayingCards\SK.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\GameElements\PlayingCards\SQ.png
+      fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\GameElements\PlayingCards\SQ.png
+      projectPath: Assets\Resources\GameElements\PlayingCards\SQ.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\GameElements\PlayingCards\SQ.png.meta
+      fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\GameElements\PlayingCards\SQ.png.meta
+      projectPath: Assets\Resources\GameElements\PlayingCards\SQ.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\GameElements\PlayingCards\joker_black.png
+      fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\GameElements\PlayingCards\joker_black.png
+      projectPath: Assets\Resources\GameElements\PlayingCards\joker_black.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\GameElements\PlayingCards\joker_black.png.meta
+      fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\GameElements\PlayingCards\joker_black.png.meta
+      projectPath: Assets\Resources\GameElements\PlayingCards\joker_black.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\GameElements\PlayingCards\joker_red.png
+      fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\GameElements\PlayingCards\joker_red.png
+      projectPath: Assets\Resources\GameElements\PlayingCards\joker_red.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\GameElements\PlayingCards\joker_red.png.meta
+      fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\GameElements\PlayingCards\joker_red.png.meta
+      projectPath: Assets\Resources\GameElements\PlayingCards\joker_red.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\1-Start.unity
+      fullPath: C:\Users\User\Documents\Gamemaker\Assets\Scenes\1-Start.unity
+      projectPath: Assets\Scenes\1-Start.unity
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Scenes\7-Player.unity
+      fullPath: C:\Users\User\Documents\Gamemaker\Assets\Scenes\7-Player.unity
+      projectPath: Assets\Scenes\7-Player.unity
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Scripts\CardDeck.cs
+      fullPath: C:\Users\User\Documents\Gamemaker\Assets\Scripts\CardDeck.cs
+      projectPath: Assets\Scripts\CardDeck.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\CardDeck.cs.meta
+      fullPath: C:\Users\User\Documents\Gamemaker\Assets\Scripts\CardDeck.cs.meta
+      projectPath: Assets\Scripts\CardDeck.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\CardProp.cs
+      fullPath: C:\Users\User\Documents\Gamemaker\Assets\Scripts\CardProp.cs
+      projectPath: Assets\Scripts\CardProp.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\CardProp.cs.meta
+      fullPath: C:\Users\User\Documents\Gamemaker\Assets\Scripts\CardProp.cs.meta
+      projectPath: Assets\Scripts\CardProp.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\FirstUnityInstantiate.cs
+      fullPath: C:\Users\User\Documents\Gamemaker\Assets\Scripts\FirstUnityInstantiate.cs
+      projectPath: Assets\Scripts\FirstUnityInstantiate.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\FirstUnityInstantiate.cs.meta
+      fullPath: C:\Users\User\Documents\Gamemaker\Assets\Scripts\FirstUnityInstantiate.cs.meta
+      projectPath: Assets\Scripts\FirstUnityInstantiate.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\ArtifactDB
+      fullPath: C:\Users\User\Documents\Gamemaker\Library\ArtifactDB
+      projectPath: Library\ArtifactDB
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\Artifacts\b0\b0d968993444fb51dc2ef1b043f47e9d
+      fullPath: C:\Users\User\Documents\Gamemaker\Library\Artifacts\b0\b0d968993444fb51dc2ef1b043f47e9d
+      projectPath: Library\Artifacts\b0\b0d968993444fb51dc2ef1b043f47e9d
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\Collab\CollabSnapshot_f76c6d7d-4ac5-4252-82f9-c1facf37c74a.txt
+      fullPath: C:\Users\User\Documents\Gamemaker\Library\Collab\CollabSnapshot_f76c6d7d-4ac5-4252-82f9-c1facf37c74a.txt
+      projectPath: Library\Collab\CollabSnapshot_f76c6d7d-4ac5-4252-82f9-c1facf37c74a.txt
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\CurrentLayout-default.dwlt
+      fullPath: C:\Users\User\Documents\Gamemaker\Library\CurrentLayout-default.dwlt
+      projectPath: Library\CurrentLayout-default.dwlt
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\EditorInstance.json
+      fullPath: C:\Users\User\Documents\Gamemaker\Library\EditorInstance.json
+      projectPath: Library\EditorInstance.json
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\InspectorExpandedItems.asset
+      fullPath: C:\Users\User\Documents\Gamemaker\Library\InspectorExpandedItems.asset
+      projectPath: Library\InspectorExpandedItems.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\PackageManager\ProjectCache
+      fullPath: C:\Users\User\Documents\Gamemaker\Library\PackageManager\ProjectCache
+      projectPath: Library\PackageManager\ProjectCache
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\PackageManager\ProjectCache.md5
+      fullPath: C:\Users\User\Documents\Gamemaker\Library\PackageManager\ProjectCache.md5
+      projectPath: Library\PackageManager\ProjectCache.md5
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\SceneVisibilityState.asset
+      fullPath: C:\Users\User\Documents\Gamemaker\Library\SceneVisibilityState.asset
+      projectPath: Library\SceneVisibilityState.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Assembly-CSharp.dll
+      fullPath: C:\Users\User\Documents\Gamemaker\Library\ScriptAssemblies\Assembly-CSharp.dll
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Assembly-CSharp.pdb
+      fullPath: C:\Users\User\Documents\Gamemaker\Library\ScriptAssemblies\Assembly-CSharp.pdb
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\SourceAssetDB
+      fullPath: C:\Users\User\Documents\Gamemaker\Library\SourceAssetDB
+      projectPath: Library\SourceAssetDB
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\StateCache\SceneView\8b\8b0d1387a24a688f32df764794220fab.json
+      fullPath: C:\Users\User\Documents\Gamemaker\Library\StateCache\SceneView\8b\8b0d1387a24a688f32df764794220fab.json
+      projectPath: Library\StateCache\SceneView\8b\8b0d1387a24a688f32df764794220fab.json
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\expandedItems
+      fullPath: C:\Users\User\Documents\Gamemaker\Library\expandedItems
+      projectPath: Library\expandedItems
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\branches.yaml
+      fullPath: C:\Users\User\Documents\Gamemaker\Library\gfu\cache\branches.yaml
+      projectPath: Library\gfu\cache\branches.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitlocks.yaml
+      fullPath: C:\Users\User\Documents\Gamemaker\Library\gfu\cache\gitlocks.yaml
+      projectPath: Library\gfu\cache\gitlocks.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitlog.yaml
+      fullPath: C:\Users\User\Documents\Gamemaker\Library\gfu\cache\gitlog.yaml
+      projectPath: Library\gfu\cache\gitlog.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitstatusentries.yaml
+      fullPath: C:\Users\User\Documents\Gamemaker\Library\gfu\cache\gitstatusentries.yaml
+      projectPath: Library\gfu\cache\gitstatusentries.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gittrackingstatus.yaml
+      fullPath: C:\Users\User\Documents\Gamemaker\Library\gfu\cache\gittrackingstatus.yaml
+      projectPath: Library\gfu\cache\gittrackingstatus.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\repoinfo.yaml
+      fullPath: C:\Users\User\Documents\Gamemaker\Library\gfu\cache\repoinfo.yaml
+      projectPath: Library\gfu\cache\repoinfo.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Logs\ApiUpdaterCheck.txt
+      fullPath: C:\Users\User\Documents\Gamemaker\Logs\ApiUpdaterCheck.txt
+      projectPath: Logs\ApiUpdaterCheck.txt
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Logs\AssetImportWorker0-prev.log
+      fullPath: C:\Users\User\Documents\Gamemaker\Logs\AssetImportWorker0-prev.log
+      projectPath: Logs\AssetImportWorker0-prev.log
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Logs\shadercompiler-UnityShaderCompiler.exe0.log
+      fullPath: C:\Users\User\Documents\Gamemaker\Logs\shadercompiler-UnityShaderCompiler.exe0.log
+      projectPath: Logs\shadercompiler-UnityShaderCompiler.exe0.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: ProjectSettings\EditorBuildSettings.asset
+      fullPath: C:\Users\User\Documents\Gamemaker\ProjectSettings\EditorBuildSettings.asset
+      projectPath: ProjectSettings\EditorBuildSettings.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: UserSettings\EditorUserSettings.asset
+      fullPath: C:\Users\User\Documents\Gamemaker\UserSettings\EditorUserSettings.asset
+      projectPath: UserSettings\EditorUserSettings.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
   - commitID: e9e67391f0d6d1b61d168568b3ca7fd36958e152
     mergeA: 
     mergeB: 
