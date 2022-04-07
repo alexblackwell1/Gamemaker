@@ -19,7 +19,7 @@ public class BoardState : MonoBehaviour
         }
     }
     
-    CardProp[] playedCards = new CardProp[2];
+    PhysicalCard[] playedCards = new PhysicalCard[2];
     
     void Start()
     {
@@ -31,12 +31,12 @@ public class BoardState : MonoBehaviour
 
     }
     
-    public void setPlayedCard(int playerNumber, CardProp card)
+    public void setPlayedCard(int playerNumber, PhysicalCard card)
     {
         playedCards[playerNumber] = card;
     }
 
-    public CardProp getPlayedCard(int playerNumber)
+    public PhysicalCard getPlayedCard(int playerNumber)
     {
         return playedCards[playerNumber];
     }

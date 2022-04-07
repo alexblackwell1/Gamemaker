@@ -13,72 +13,56 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2022-03-17T15:55:42.079-04:00
-  initializedAtString: 2022-03-17T13:58:00.191-04:00
+  lastUpdatedAtString: 2022-04-07T16:47:02.743-04:00
+  initializedAtString: 2022-04-07T13:46:52.194-04:00
   entries:
-  - path: .collabignore
-    fullPath: C:\Users\User\Documents\Gamemaker\.collabignore
-    projectPath: .collabignore
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: Assets\LayoutBoard.cs
     fullPath: C:\Users\User\Documents\Gamemaker\Assets\LayoutBoard.cs
     projectPath: Assets\LayoutBoard.cs
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Assets\Prefabs\Card.prefab
     fullPath: C:\Users\User\Documents\Gamemaker\Assets\Prefabs\Card.prefab
     projectPath: Assets\Prefabs\Card.prefab
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Assets\Prefabs\Card.prefab.meta
-    fullPath: C:\Users\User\Documents\Gamemaker\Assets\Prefabs\Card.prefab.meta
-    projectPath: Assets\Prefabs\Card.prefab.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Resources\Boards.meta
-    fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\Boards.meta
-    projectPath: Assets\Resources\Boards.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Resources\Boards\25231.png
-    fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\Boards\25231.png
-    projectPath: Assets\Resources\Boards\25231.png
+  - path: Assets\Prefabs\GameElement.prefab
+    fullPath: C:\Users\User\Documents\Gamemaker\Assets\Prefabs\GameElement.prefab
+    projectPath: Assets\Prefabs\GameElement.prefab
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Resources\Boards\25231.png.meta
-    fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\Boards\25231.png.meta
-    projectPath: Assets\Resources\Boards\25231.png.meta
+  - path: Assets\Prefabs\GameElement.prefab.meta
+    fullPath: C:\Users\User\Documents\Gamemaker\Assets\Prefabs\GameElement.prefab.meta
+    projectPath: Assets\Prefabs\GameElement.prefab.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Resources\Boards\background.png
-    fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\Boards\background.png
-    projectPath: Assets\Resources\Boards\background.png
+  - path: Assets\Resources\Boards\91101036-6c8f-43e5-87f3-8d8574753bc9.png
+    fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\Boards\91101036-6c8f-43e5-87f3-8d8574753bc9.png
+    projectPath: Assets\Resources\Boards\91101036-6c8f-43e5-87f3-8d8574753bc9.png
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Resources\Boards\background.png.meta
-    fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\Boards\background.png.meta
-    projectPath: Assets\Resources\Boards\background.png.meta
+  - path: Assets\Resources\Boards\91101036-6c8f-43e5-87f3-8d8574753bc9.png.meta
+    fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\Boards\91101036-6c8f-43e5-87f3-8d8574753bc9.png.meta
+    projectPath: Assets\Resources\Boards\91101036-6c8f-43e5-87f3-8d8574753bc9.png.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Resources\Boards\deathstar.png
-    fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\Boards\deathstar.png
-    projectPath: Assets\Resources\Boards\deathstar.png
+  - path: Assets\Resources\Boards\card back black.png
+    fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\Boards\card back
+      black.png
+    projectPath: Assets\Resources\Boards\card back black.png
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Resources\Boards\deathstar.png.meta
-    fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\Boards\deathstar.png.meta
-    projectPath: Assets\Resources\Boards\deathstar.png.meta
+  - path: Assets\Resources\Boards\card back black.png.meta
+    fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\Boards\card back
+      black.png.meta
+    projectPath: Assets\Resources\Boards\card back black.png.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -86,444 +70,160 @@ MonoBehaviour:
     fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\Boards\wood-600x480.jpg
     projectPath: Assets\Resources\Boards\wood-600x480.jpg
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Assets\Resources\Boards\wood-600x480.jpg.meta
     fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\Boards\wood-600x480.jpg.meta
     projectPath: Assets\Resources\Boards\wood-600x480.jpg.meta
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\Resources\Boards\woodboard1.png
-    fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\Boards\woodboard1.png
-    projectPath: Assets\Resources\Boards\woodboard1.png
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: "Assets\\Resources\\GameElements\\1280px-Central_Asia_map_of_K\xF6ppen_climate_classification.svg.png"
+    fullPath: "C:\\Users\\User\\Documents\\Gamemaker\\Assets\\Resources\\GameElements\\1280px-Central_Asia_map_of_K\xF6ppen_climate_classification.svg.png"
+    projectPath: "Assets\\Resources\\GameElements\\1280px-Central_Asia_map_of_K\xF6ppen_climate_classification.svg.png"
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Resources\Boards\woodboard1.png.meta
-    fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\Boards\woodboard1.png.meta
-    projectPath: Assets\Resources\Boards\woodboard1.png.meta
+  - path: "Assets\\Resources\\GameElements\\1280px-Central_Asia_map_of_K\xF6ppen_climate_classification.svg.png.meta"
+    fullPath: "C:\\Users\\User\\Documents\\Gamemaker\\Assets\\Resources\\GameElements\\1280px-Central_Asia_map_of_K\xF6ppen_climate_classification.svg.png.meta"
+    projectPath: "Assets\\Resources\\GameElements\\1280px-Central_Asia_map_of_K\xF6ppen_climate_classification.svg.png.meta"
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Resources\GameElements.meta
-    fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\GameElements.meta
-    projectPath: Assets\Resources\GameElements.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Resources\GameElements\PlayingCards.meta
-    fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\GameElements\PlayingCards.meta
-    projectPath: Assets\Resources\GameElements\PlayingCards.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Resources\GameElements\PlayingCards\C10.png.meta
-    fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\GameElements\PlayingCards\C10.png.meta
-    projectPath: Assets\Resources\GameElements\PlayingCards\C10.png.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Resources\GameElements\PlayingCards\C2.png.meta
-    fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\GameElements\PlayingCards\C2.png.meta
-    projectPath: Assets\Resources\GameElements\PlayingCards\C2.png.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Resources\GameElements\PlayingCards\C3.png.meta
-    fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\GameElements\PlayingCards\C3.png.meta
-    projectPath: Assets\Resources\GameElements\PlayingCards\C3.png.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Resources\GameElements\PlayingCards\C4.png.meta
-    fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\GameElements\PlayingCards\C4.png.meta
-    projectPath: Assets\Resources\GameElements\PlayingCards\C4.png.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Resources\GameElements\PlayingCards\C5.png.meta
-    fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\GameElements\PlayingCards\C5.png.meta
-    projectPath: Assets\Resources\GameElements\PlayingCards\C5.png.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Resources\GameElements\PlayingCards\C6.png.meta
-    fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\GameElements\PlayingCards\C6.png.meta
-    projectPath: Assets\Resources\GameElements\PlayingCards\C6.png.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Resources\GameElements\PlayingCards\C7.png.meta
-    fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\GameElements\PlayingCards\C7.png.meta
-    projectPath: Assets\Resources\GameElements\PlayingCards\C7.png.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Resources\GameElements\PlayingCards\C8.png.meta
-    fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\GameElements\PlayingCards\C8.png.meta
-    projectPath: Assets\Resources\GameElements\PlayingCards\C8.png.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Resources\GameElements\PlayingCards\C9.png.meta
-    fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\GameElements\PlayingCards\C9.png.meta
-    projectPath: Assets\Resources\GameElements\PlayingCards\C9.png.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Resources\GameElements\PlayingCards\CA.png.meta
-    fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\GameElements\PlayingCards\CA.png.meta
-    projectPath: Assets\Resources\GameElements\PlayingCards\CA.png.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Resources\GameElements\PlayingCards\Card Prefab.prefab
-    fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\GameElements\PlayingCards\Card
-      Prefab.prefab
-    projectPath: Assets\Resources\GameElements\PlayingCards\Card Prefab.prefab
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Resources\GameElements\PlayingCards\Card Prefab.prefab.meta
-    fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\GameElements\PlayingCards\Card
-      Prefab.prefab.meta
-    projectPath: Assets\Resources\GameElements\PlayingCards\Card Prefab.prefab.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Resources\GameElements\PlayingCards\CJ.png.meta
-    fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\GameElements\PlayingCards\CJ.png.meta
-    projectPath: Assets\Resources\GameElements\PlayingCards\CJ.png.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Resources\GameElements\PlayingCards\CK.png.meta
-    fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\GameElements\PlayingCards\CK.png.meta
-    projectPath: Assets\Resources\GameElements\PlayingCards\CK.png.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Resources\GameElements\PlayingCards\CQ.png.meta
-    fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\GameElements\PlayingCards\CQ.png.meta
-    projectPath: Assets\Resources\GameElements\PlayingCards\CQ.png.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Resources\GameElements\PlayingCards\D10.png.meta
-    fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\GameElements\PlayingCards\D10.png.meta
-    projectPath: Assets\Resources\GameElements\PlayingCards\D10.png.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Resources\GameElements\PlayingCards\D2.png.meta
-    fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\GameElements\PlayingCards\D2.png.meta
-    projectPath: Assets\Resources\GameElements\PlayingCards\D2.png.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Resources\GameElements\PlayingCards\D3.png.meta
-    fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\GameElements\PlayingCards\D3.png.meta
-    projectPath: Assets\Resources\GameElements\PlayingCards\D3.png.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Resources\GameElements\PlayingCards\D4.png.meta
-    fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\GameElements\PlayingCards\D4.png.meta
-    projectPath: Assets\Resources\GameElements\PlayingCards\D4.png.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Resources\GameElements\PlayingCards\D5.png.meta
-    fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\GameElements\PlayingCards\D5.png.meta
-    projectPath: Assets\Resources\GameElements\PlayingCards\D5.png.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Resources\GameElements\PlayingCards\D6.png.meta
-    fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\GameElements\PlayingCards\D6.png.meta
-    projectPath: Assets\Resources\GameElements\PlayingCards\D6.png.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Resources\GameElements\PlayingCards\D7.png.meta
-    fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\GameElements\PlayingCards\D7.png.meta
-    projectPath: Assets\Resources\GameElements\PlayingCards\D7.png.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Resources\GameElements\PlayingCards\D8.png.meta
-    fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\GameElements\PlayingCards\D8.png.meta
-    projectPath: Assets\Resources\GameElements\PlayingCards\D8.png.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Resources\GameElements\PlayingCards\D9.png.meta
-    fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\GameElements\PlayingCards\D9.png.meta
-    projectPath: Assets\Resources\GameElements\PlayingCards\D9.png.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Resources\GameElements\PlayingCards\DA.png.meta
-    fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\GameElements\PlayingCards\DA.png.meta
-    projectPath: Assets\Resources\GameElements\PlayingCards\DA.png.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Resources\GameElements\PlayingCards\DJ.png.meta
-    fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\GameElements\PlayingCards\DJ.png.meta
-    projectPath: Assets\Resources\GameElements\PlayingCards\DJ.png.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Resources\GameElements\PlayingCards\DK.png.meta
-    fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\GameElements\PlayingCards\DK.png.meta
-    projectPath: Assets\Resources\GameElements\PlayingCards\DK.png.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Resources\GameElements\PlayingCards\DQ.png.meta
-    fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\GameElements\PlayingCards\DQ.png.meta
-    projectPath: Assets\Resources\GameElements\PlayingCards\DQ.png.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Resources\GameElements\PlayingCards\H10.png.meta
-    fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\GameElements\PlayingCards\H10.png.meta
-    projectPath: Assets\Resources\GameElements\PlayingCards\H10.png.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Resources\GameElements\PlayingCards\H2.png.meta
-    fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\GameElements\PlayingCards\H2.png.meta
-    projectPath: Assets\Resources\GameElements\PlayingCards\H2.png.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Resources\GameElements\PlayingCards\H3.png.meta
-    fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\GameElements\PlayingCards\H3.png.meta
-    projectPath: Assets\Resources\GameElements\PlayingCards\H3.png.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Resources\GameElements\PlayingCards\H4.png.meta
-    fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\GameElements\PlayingCards\H4.png.meta
-    projectPath: Assets\Resources\GameElements\PlayingCards\H4.png.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Resources\GameElements\PlayingCards\H5.png.meta
-    fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\GameElements\PlayingCards\H5.png.meta
-    projectPath: Assets\Resources\GameElements\PlayingCards\H5.png.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Resources\GameElements\PlayingCards\H6.png.meta
-    fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\GameElements\PlayingCards\H6.png.meta
-    projectPath: Assets\Resources\GameElements\PlayingCards\H6.png.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Resources\GameElements\PlayingCards\H7.png.meta
-    fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\GameElements\PlayingCards\H7.png.meta
-    projectPath: Assets\Resources\GameElements\PlayingCards\H7.png.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Resources\GameElements\PlayingCards\H8.png.meta
-    fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\GameElements\PlayingCards\H8.png.meta
-    projectPath: Assets\Resources\GameElements\PlayingCards\H8.png.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Resources\GameElements\PlayingCards\H9.png.meta
-    fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\GameElements\PlayingCards\H9.png.meta
-    projectPath: Assets\Resources\GameElements\PlayingCards\H9.png.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Resources\GameElements\PlayingCards\HA.png.meta
-    fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\GameElements\PlayingCards\HA.png.meta
-    projectPath: Assets\Resources\GameElements\PlayingCards\HA.png.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Resources\GameElements\PlayingCards\HJ.png.meta
-    fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\GameElements\PlayingCards\HJ.png.meta
-    projectPath: Assets\Resources\GameElements\PlayingCards\HJ.png.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Resources\GameElements\PlayingCards\HK.png.meta
-    fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\GameElements\PlayingCards\HK.png.meta
-    projectPath: Assets\Resources\GameElements\PlayingCards\HK.png.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Resources\GameElements\PlayingCards\HQ.png.meta
-    fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\GameElements\PlayingCards\HQ.png.meta
-    projectPath: Assets\Resources\GameElements\PlayingCards\HQ.png.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Resources\GameElements\PlayingCards\joker_black.png.meta
-    fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\GameElements\PlayingCards\joker_black.png.meta
-    projectPath: Assets\Resources\GameElements\PlayingCards\joker_black.png.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Resources\GameElements\PlayingCards\joker_red.png.meta
-    fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\GameElements\PlayingCards\joker_red.png.meta
-    projectPath: Assets\Resources\GameElements\PlayingCards\joker_red.png.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Resources\GameElements\PlayingCards\S10.png.meta
-    fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\GameElements\PlayingCards\S10.png.meta
-    projectPath: Assets\Resources\GameElements\PlayingCards\S10.png.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Resources\GameElements\PlayingCards\S2.png.meta
-    fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\GameElements\PlayingCards\S2.png.meta
-    projectPath: Assets\Resources\GameElements\PlayingCards\S2.png.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Resources\GameElements\PlayingCards\S3.png.meta
-    fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\GameElements\PlayingCards\S3.png.meta
-    projectPath: Assets\Resources\GameElements\PlayingCards\S3.png.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Resources\GameElements\PlayingCards\S4.png.meta
-    fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\GameElements\PlayingCards\S4.png.meta
-    projectPath: Assets\Resources\GameElements\PlayingCards\S4.png.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Resources\GameElements\PlayingCards\S5.png.meta
-    fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\GameElements\PlayingCards\S5.png.meta
-    projectPath: Assets\Resources\GameElements\PlayingCards\S5.png.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Resources\GameElements\PlayingCards\S6.png.meta
-    fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\GameElements\PlayingCards\S6.png.meta
-    projectPath: Assets\Resources\GameElements\PlayingCards\S6.png.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Resources\GameElements\PlayingCards\S7.png.meta
-    fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\GameElements\PlayingCards\S7.png.meta
-    projectPath: Assets\Resources\GameElements\PlayingCards\S7.png.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Resources\GameElements\PlayingCards\S8.png.meta
-    fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\GameElements\PlayingCards\S8.png.meta
-    projectPath: Assets\Resources\GameElements\PlayingCards\S8.png.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Resources\GameElements\PlayingCards\S9.png.meta
-    fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\GameElements\PlayingCards\S9.png.meta
-    projectPath: Assets\Resources\GameElements\PlayingCards\S9.png.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Resources\GameElements\PlayingCards\SA.png.meta
-    fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\GameElements\PlayingCards\SA.png.meta
-    projectPath: Assets\Resources\GameElements\PlayingCards\SA.png.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Resources\GameElements\PlayingCards\SJ.png.meta
-    fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\GameElements\PlayingCards\SJ.png.meta
-    projectPath: Assets\Resources\GameElements\PlayingCards\SJ.png.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Resources\GameElements\PlayingCards\SK.png.meta
-    fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\GameElements\PlayingCards\SK.png.meta
-    projectPath: Assets\Resources\GameElements\PlayingCards\SK.png.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Resources\GameElements\PlayingCards\SQ.png.meta
-    fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\GameElements\PlayingCards\SQ.png.meta
-    projectPath: Assets\Resources\GameElements\PlayingCards\SQ.png.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Resources\templates.meta
-    fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\templates.meta
-    projectPath: Assets\Resources\templates.meta
+  - path: Assets\Resources\GameElements\160167803611965890.png
+    fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\GameElements\160167803611965890.png
+    projectPath: Assets\Resources\GameElements\160167803611965890.png
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Resources\templates\Asset 4.png
-    fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\templates\Asset
-      4.png
-    projectPath: Assets\Resources\templates\Asset 4.png
+  - path: Assets\Resources\GameElements\160167803611965890.png.meta
+    fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\GameElements\160167803611965890.png.meta
+    projectPath: Assets\Resources\GameElements\160167803611965890.png.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Resources\templates\Asset 4.png.meta
-    fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\templates\Asset
-      4.png.meta
-    projectPath: Assets\Resources\templates\Asset 4.png.meta
+  - path: Assets\Resources\GameElements\25231.png
+    fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\GameElements\25231.png
+    projectPath: Assets\Resources\GameElements\25231.png
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Resources\templates\button.png
-    fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\templates\button.png
-    projectPath: Assets\Resources\templates\button.png
+  - path: Assets\Resources\GameElements\25231.png.meta
+    fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\GameElements\25231.png.meta
+    projectPath: Assets\Resources\GameElements\25231.png.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Resources\templates\button.png.meta
-    fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\templates\button.png.meta
-    projectPath: Assets\Resources\templates\button.png.meta
+  - path: Assets\Resources\GameElements\apt.png
+    fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\GameElements\apt.png
+    projectPath: Assets\Resources\GameElements\apt.png
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Resources\templates\element.png
-    fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\templates\element.png
-    projectPath: Assets\Resources\templates\element.png
+  - path: Assets\Resources\GameElements\apt.png.meta
+    fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\GameElements\apt.png.meta
+    projectPath: Assets\Resources\GameElements\apt.png.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Resources\templates\element.png.meta
-    fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\templates\element.png.meta
-    projectPath: Assets\Resources\templates\element.png.meta
+  - path: Assets\Resources\GameElements\card back black.png
+    fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\GameElements\card
+      back black.png
+    projectPath: Assets\Resources\GameElements\card back black.png
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Resources\templates\info.png
-    fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\templates\info.png
-    projectPath: Assets\Resources\templates\info.png
+  - path: Assets\Resources\GameElements\card back black.png.meta
+    fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\GameElements\card
+      back black.png.meta
+    projectPath: Assets\Resources\GameElements\card back black.png.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Resources\templates\info.png.meta
-    fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\templates\info.png.meta
-    projectPath: Assets\Resources\templates\info.png.meta
+  - path: Assets\Resources\GameElements\cardBack.png
+    fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\GameElements\cardBack.png
+    projectPath: Assets\Resources\GameElements\cardBack.png
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Scenes\1-Start.unity
-    fullPath: C:\Users\User\Documents\Gamemaker\Assets\Scenes\1-Start.unity
-    projectPath: Assets\Scenes\1-Start.unity
+  - path: Assets\Resources\GameElements\cardBack.png.meta
+    fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\GameElements\cardBack.png.meta
+    projectPath: Assets\Resources\GameElements\cardBack.png.meta
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Scenes\2-Create.unity
-    fullPath: C:\Users\User\Documents\Gamemaker\Assets\Scenes\2-Create.unity
-    projectPath: Assets\Scenes\2-Create.unity
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Resources\GameElements\flat,1000x1000,075,f.u3.jpg
+    fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\GameElements\flat,1000x1000,075,f.u3.jpg
+    projectPath: Assets\Resources\GameElements\flat,1000x1000,075,f.u3.jpg
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Resources\GameElements\flat,1000x1000,075,f.u3.jpg.meta
+    fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\GameElements\flat,1000x1000,075,f.u3.jpg.meta
+    projectPath: Assets\Resources\GameElements\flat,1000x1000,075,f.u3.jpg.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Resources\GameElements\fox.png
+    fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\GameElements\fox.png
+    projectPath: Assets\Resources\GameElements\fox.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Resources\GameElements\fox.png.meta
+    fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\GameElements\fox.png.meta
+    projectPath: Assets\Resources\GameElements\fox.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Resources\GameElements\linkedin_black_logo_icon_147114.png
+    fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\GameElements\linkedin_black_logo_icon_147114.png
+    projectPath: Assets\Resources\GameElements\linkedin_black_logo_icon_147114.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Resources\GameElements\linkedin_black_logo_icon_147114.png.meta
+    fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\GameElements\linkedin_black_logo_icon_147114.png.meta
+    projectPath: Assets\Resources\GameElements\linkedin_black_logo_icon_147114.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Resources\GameElements\pngwing.com.png
+    fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\GameElements\pngwing.com.png
+    projectPath: Assets\Resources\GameElements\pngwing.com.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Resources\GameElements\pngwing.com.png.meta
+    fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\GameElements\pngwing.com.png.meta
+    projectPath: Assets\Resources\GameElements\pngwing.com.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Resources\GameElements\wood-600x480.jpg
+    fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\GameElements\wood-600x480.jpg
+    projectPath: Assets\Resources\GameElements\wood-600x480.jpg
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Resources\GameElements\wood-600x480.jpg.meta
+    fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\GameElements\wood-600x480.jpg.meta
+    projectPath: Assets\Resources\GameElements\wood-600x480.jpg.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Resources\GameElements\woodboard1.png
+    fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\GameElements\woodboard1.png
+    projectPath: Assets\Resources\GameElements\woodboard1.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Resources\GameElements\woodboard1.png.meta
+    fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\GameElements\woodboard1.png.meta
+    projectPath: Assets\Resources\GameElements\woodboard1.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Assets\Scenes\3-Info.unity
     fullPath: C:\Users\User\Documents\Gamemaker\Assets\Scenes\3-Info.unity
     projectPath: Assets\Scenes\3-Info.unity
@@ -541,88 +241,286 @@ MonoBehaviour:
     projectPath: Assets\Scenes\5-Stats.unity
     originalPath: 
     indexStatus: 0
-    workTreeStatus: 3
+    workTreeStatus: 5
+  - path: Assets\Scenes\5-Stats.unity.meta
+    fullPath: C:\Users\User\Documents\Gamemaker\Assets\Scenes\5-Stats.unity.meta
+    projectPath: Assets\Scenes\5-Stats.unity.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Assets\Scenes\6-Conditions.unity
     fullPath: C:\Users\User\Documents\Gamemaker\Assets\Scenes\6-Conditions.unity
     projectPath: Assets\Scenes\6-Conditions.unity
     originalPath: 
     indexStatus: 0
-    workTreeStatus: 3
+    workTreeStatus: 5
+  - path: Assets\Scenes\6-Conditions.unity.meta
+    fullPath: C:\Users\User\Documents\Gamemaker\Assets\Scenes\6-Conditions.unity.meta
+    projectPath: Assets\Scenes\6-Conditions.unity.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Assets\Scenes\7-Player.unity
     fullPath: C:\Users\User\Documents\Gamemaker\Assets\Scenes\7-Player.unity
     projectPath: Assets\Scenes\7-Player.unity
     originalPath: 
     indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Scripts.meta
-    fullPath: C:\Users\User\Documents\Gamemaker\Assets\Scripts.meta
-    projectPath: Assets\Scripts.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Scripts\CardDeck.cs
-    fullPath: C:\Users\User\Documents\Gamemaker\Assets\Scripts\CardDeck.cs
-    projectPath: Assets\Scripts\CardDeck.cs
+    workTreeStatus: 5
+  - path: Assets\Scenes\7-Player.unity.meta
+    fullPath: C:\Users\User\Documents\Gamemaker\Assets\Scenes\7-Player.unity.meta
+    projectPath: Assets\Scenes\7-Player.unity.meta
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Assets\Scripts\CardDeck.cs.meta
-    fullPath: C:\Users\User\Documents\Gamemaker\Assets\Scripts\CardDeck.cs.meta
-    projectPath: Assets\Scripts\CardDeck.cs.meta
+  - path: Assets\Scripts\BuildDropdown.cs
+    fullPath: C:\Users\User\Documents\Gamemaker\Assets\Scripts\BuildDropdown.cs
+    projectPath: Assets\Scripts\BuildDropdown.cs
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\Scripts\CardProp.cs
-    fullPath: C:\Users\User\Documents\Gamemaker\Assets\Scripts\CardProp.cs
-    projectPath: Assets\Scripts\CardProp.cs
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\BuildDropdown.cs.meta
+    fullPath: C:\Users\User\Documents\Gamemaker\Assets\Scripts\BuildDropdown.cs.meta
+    projectPath: Assets\Scripts\BuildDropdown.cs.meta
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\Scripts\CardProp.cs.meta
-    fullPath: C:\Users\User\Documents\Gamemaker\Assets\Scripts\CardProp.cs.meta
-    projectPath: Assets\Scripts\CardProp.cs.meta
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\ConstructedElement.cs
+    fullPath: C:\Users\User\Documents\Gamemaker\Assets\Scripts\ConstructedElement.cs
+    projectPath: Assets\Scripts\ConstructedElement.cs
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\ConstructedElement.cs.meta
+    fullPath: C:\Users\User\Documents\Gamemaker\Assets\Scripts\ConstructedElement.cs.meta
+    projectPath: Assets\Scripts\ConstructedElement.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\ConstructedLocation.cs
+    fullPath: C:\Users\User\Documents\Gamemaker\Assets\Scripts\ConstructedLocation.cs
+    projectPath: Assets\Scripts\ConstructedLocation.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\ConstructedLocation.cs.meta
+    fullPath: C:\Users\User\Documents\Gamemaker\Assets\Scripts\ConstructedLocation.cs.meta
+    projectPath: Assets\Scripts\ConstructedLocation.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\DragAndDrop.cs
+    fullPath: C:\Users\User\Documents\Gamemaker\Assets\Scripts\DragAndDrop.cs
+    projectPath: Assets\Scripts\DragAndDrop.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\DragAndDrop.cs.meta
+    fullPath: C:\Users\User\Documents\Gamemaker\Assets\Scripts\DragAndDrop.cs.meta
+    projectPath: Assets\Scripts\DragAndDrop.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\ElementLocation.cs
+    fullPath: C:\Users\User\Documents\Gamemaker\Assets\Scripts\ElementLocation.cs
+    projectPath: Assets\Scripts\ElementLocation.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\ElementLocation.cs.meta
+    fullPath: C:\Users\User\Documents\Gamemaker\Assets\Scripts\ElementLocation.cs.meta
+    projectPath: Assets\Scripts\ElementLocation.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Assets\Scripts\FileUpload.cs
     fullPath: C:\Users\User\Documents\Gamemaker\Assets\Scripts\FileUpload.cs
     projectPath: Assets\Scripts\FileUpload.cs
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Assets\Scripts\FileUpload.cs.meta
-    fullPath: C:\Users\User\Documents\Gamemaker\Assets\Scripts\FileUpload.cs.meta
-    projectPath: Assets\Scripts\FileUpload.cs.meta
+  - path: Assets\Scripts\GameElement.cs
+    fullPath: C:\Users\User\Documents\Gamemaker\Assets\Scripts\GameElement.cs
+    projectPath: Assets\Scripts\GameElement.cs
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Scripts\FirstUnityInstantiate.cs
-    fullPath: C:\Users\User\Documents\Gamemaker\Assets\Scripts\FirstUnityInstantiate.cs
-    projectPath: Assets\Scripts\FirstUnityInstantiate.cs
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\GameElement.cs.meta
+    fullPath: C:\Users\User\Documents\Gamemaker\Assets\Scripts\GameElement.cs.meta
+    projectPath: Assets\Scripts\GameElement.cs.meta
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\Scripts\FirstUnityInstantiate.cs.meta
-    fullPath: C:\Users\User\Documents\Gamemaker\Assets\Scripts\FirstUnityInstantiate.cs.meta
-    projectPath: Assets\Scripts\FirstUnityInstantiate.cs.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Assets\Scripts\GameInfo.cs
     fullPath: C:\Users\User\Documents\Gamemaker\Assets\Scripts\GameInfo.cs
     projectPath: Assets\Scripts\GameInfo.cs
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Scripts\GameInfo.cs.meta
-    fullPath: C:\Users\User\Documents\Gamemaker\Assets\Scripts\GameInfo.cs.meta
-    projectPath: Assets\Scripts\GameInfo.cs.meta
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Scripts\GameRules.cs
+    fullPath: C:\Users\User\Documents\Gamemaker\Assets\Scripts\GameRules.cs
+    projectPath: Assets\Scripts\GameRules.cs
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Scripts\Mechanics.meta
-    fullPath: C:\Users\User\Documents\Gamemaker\Assets\Scripts\Mechanics.meta
-    projectPath: Assets\Scripts\Mechanics.meta
+  - path: Assets\Scripts\GameRules.cs.meta
+    fullPath: C:\Users\User\Documents\Gamemaker\Assets\Scripts\GameRules.cs.meta
+    projectPath: Assets\Scripts\GameRules.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\Interfaces.meta
+    fullPath: C:\Users\User\Documents\Gamemaker\Assets\Scripts\Interfaces.meta
+    projectPath: Assets\Scripts\Interfaces.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\Interfaces\ActionEvent.cs
+    fullPath: C:\Users\User\Documents\Gamemaker\Assets\Scripts\Interfaces\ActionEvent.cs
+    projectPath: Assets\Scripts\Interfaces\ActionEvent.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\Interfaces\ActionEvent.cs.meta
+    fullPath: C:\Users\User\Documents\Gamemaker\Assets\Scripts\Interfaces\ActionEvent.cs.meta
+    projectPath: Assets\Scripts\Interfaces\ActionEvent.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\Interfaces\Actions.meta
+    fullPath: C:\Users\User\Documents\Gamemaker\Assets\Scripts\Interfaces\Actions.meta
+    projectPath: Assets\Scripts\Interfaces\Actions.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\Interfaces\Actions\CardAction.cs
+    fullPath: C:\Users\User\Documents\Gamemaker\Assets\Scripts\Interfaces\Actions\CardAction.cs
+    projectPath: Assets\Scripts\Interfaces\Actions\CardAction.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\Interfaces\Actions\CardAction.cs.meta
+    fullPath: C:\Users\User\Documents\Gamemaker\Assets\Scripts\Interfaces\Actions\CardAction.cs.meta
+    projectPath: Assets\Scripts\Interfaces\Actions\CardAction.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\Interfaces\Actions\PlayTo.cs
+    fullPath: C:\Users\User\Documents\Gamemaker\Assets\Scripts\Interfaces\Actions\PlayTo.cs
+    projectPath: Assets\Scripts\Interfaces\Actions\PlayTo.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\Interfaces\Actions\PlayTo.cs.meta
+    fullPath: C:\Users\User\Documents\Gamemaker\Assets\Scripts\Interfaces\Actions\PlayTo.cs.meta
+    projectPath: Assets\Scripts\Interfaces\Actions\PlayTo.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\Interfaces\ConditionEvent.cs
+    fullPath: C:\Users\User\Documents\Gamemaker\Assets\Scripts\Interfaces\ConditionEvent.cs
+    projectPath: Assets\Scripts\Interfaces\ConditionEvent.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\Interfaces\ConditionEvent.cs.meta
+    fullPath: C:\Users\User\Documents\Gamemaker\Assets\Scripts\Interfaces\ConditionEvent.cs.meta
+    projectPath: Assets\Scripts\Interfaces\ConditionEvent.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\Interfaces\Conditions.meta
+    fullPath: C:\Users\User\Documents\Gamemaker\Assets\Scripts\Interfaces\Conditions.meta
+    projectPath: Assets\Scripts\Interfaces\Conditions.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\Interfaces\Conditions\CardCondition.cs
+    fullPath: C:\Users\User\Documents\Gamemaker\Assets\Scripts\Interfaces\Conditions\CardCondition.cs
+    projectPath: Assets\Scripts\Interfaces\Conditions\CardCondition.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\Interfaces\Conditions\CardCondition.cs.meta
+    fullPath: C:\Users\User\Documents\Gamemaker\Assets\Scripts\Interfaces\Conditions\CardCondition.cs.meta
+    projectPath: Assets\Scripts\Interfaces\Conditions\CardCondition.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\Interfaces\Conditions\CompareRankMove.cs
+    fullPath: C:\Users\User\Documents\Gamemaker\Assets\Scripts\Interfaces\Conditions\CompareRankMove.cs
+    projectPath: Assets\Scripts\Interfaces\Conditions\CompareRankMove.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\Interfaces\Conditions\CompareRankMove.cs.meta
+    fullPath: C:\Users\User\Documents\Gamemaker\Assets\Scripts\Interfaces\Conditions\CompareRankMove.cs.meta
+    projectPath: Assets\Scripts\Interfaces\Conditions\CompareRankMove.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\Interfaces\Locaitons.meta
+    fullPath: C:\Users\User\Documents\Gamemaker\Assets\Scripts\Interfaces\Locaitons.meta
+    projectPath: Assets\Scripts\Interfaces\Locaitons.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\Interfaces\Locaitons\CardLocation.cs
+    fullPath: C:\Users\User\Documents\Gamemaker\Assets\Scripts\Interfaces\Locaitons\CardLocation.cs
+    projectPath: Assets\Scripts\Interfaces\Locaitons\CardLocation.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\Interfaces\Locaitons\CardLocation.cs.meta
+    fullPath: C:\Users\User\Documents\Gamemaker\Assets\Scripts\Interfaces\Locaitons\CardLocation.cs.meta
+    projectPath: Assets\Scripts\Interfaces\Locaitons\CardLocation.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\Interfaces\Location.cs
+    fullPath: C:\Users\User\Documents\Gamemaker\Assets\Scripts\Interfaces\Location.cs
+    projectPath: Assets\Scripts\Interfaces\Location.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\Interfaces\Location.cs.meta
+    fullPath: C:\Users\User\Documents\Gamemaker\Assets\Scripts\Interfaces\Location.cs.meta
+    projectPath: Assets\Scripts\Interfaces\Location.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\Interfaces\Parser.cs
+    fullPath: C:\Users\User\Documents\Gamemaker\Assets\Scripts\Interfaces\Parser.cs
+    projectPath: Assets\Scripts\Interfaces\Parser.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\Interfaces\Parser.cs.meta
+    fullPath: C:\Users\User\Documents\Gamemaker\Assets\Scripts\Interfaces\Parser.cs.meta
+    projectPath: Assets\Scripts\Interfaces\Parser.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\LayoutBoard.cs
+    fullPath: C:\Users\User\Documents\Gamemaker\Assets\Scripts\LayoutBoard.cs
+    projectPath: Assets\Scripts\LayoutBoard.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\LayoutBoard.cs.meta
+    fullPath: C:\Users\User\Documents\Gamemaker\Assets\Scripts\LayoutBoard.cs.meta
+    projectPath: Assets\Scripts\LayoutBoard.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\LocationHandler.cs
+    fullPath: C:\Users\User\Documents\Gamemaker\Assets\Scripts\LocationHandler.cs
+    projectPath: Assets\Scripts\LocationHandler.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\LocationHandler.cs.meta
+    fullPath: C:\Users\User\Documents\Gamemaker\Assets\Scripts\LocationHandler.cs.meta
+    projectPath: Assets\Scripts\LocationHandler.cs.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -630,23 +528,23 @@ MonoBehaviour:
     fullPath: C:\Users\User\Documents\Gamemaker\Assets\Scripts\Mechanics\BoardState.cs
     projectPath: Assets\Scripts\Mechanics\BoardState.cs
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Scripts\Mechanics\BoardState.cs.meta
-    fullPath: C:\Users\User\Documents\Gamemaker\Assets\Scripts\Mechanics\BoardState.cs.meta
-    projectPath: Assets\Scripts\Mechanics\BoardState.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Assets\Scripts\Mechanics\CardBehavior.cs
     fullPath: C:\Users\User\Documents\Gamemaker\Assets\Scripts\Mechanics\CardBehavior.cs
     projectPath: Assets\Scripts\Mechanics\CardBehavior.cs
     originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Scripts\Mechanics\CardCreator.cs
+    fullPath: C:\Users\User\Documents\Gamemaker\Assets\Scripts\Mechanics\CardCreator.cs
+    projectPath: Assets\Scripts\Mechanics\CardCreator.cs
+    originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Scripts\Mechanics\CardBehavior.cs.meta
-    fullPath: C:\Users\User\Documents\Gamemaker\Assets\Scripts\Mechanics\CardBehavior.cs.meta
-    projectPath: Assets\Scripts\Mechanics\CardBehavior.cs.meta
+  - path: Assets\Scripts\Mechanics\CardCreator.cs.meta
+    fullPath: C:\Users\User\Documents\Gamemaker\Assets\Scripts\Mechanics\CardCreator.cs.meta
+    projectPath: Assets\Scripts\Mechanics\CardCreator.cs.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -654,11 +552,17 @@ MonoBehaviour:
     fullPath: C:\Users\User\Documents\Gamemaker\Assets\Scripts\Mechanics\CardDeck.cs
     projectPath: Assets\Scripts\Mechanics\CardDeck.cs
     originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Scripts\Mechanics\CardInteractionInterface.cs
+    fullPath: C:\Users\User\Documents\Gamemaker\Assets\Scripts\Mechanics\CardInteractionInterface.cs
+    projectPath: Assets\Scripts\Mechanics\CardInteractionInterface.cs
+    originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Scripts\Mechanics\CardDeck.cs.meta
-    fullPath: C:\Users\User\Documents\Gamemaker\Assets\Scripts\Mechanics\CardDeck.cs.meta
-    projectPath: Assets\Scripts\Mechanics\CardDeck.cs.meta
+  - path: Assets\Scripts\Mechanics\CardInteractionInterface.cs.meta
+    fullPath: C:\Users\User\Documents\Gamemaker\Assets\Scripts\Mechanics\CardInteractionInterface.cs.meta
+    projectPath: Assets\Scripts\Mechanics\CardInteractionInterface.cs.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -666,77 +570,113 @@ MonoBehaviour:
     fullPath: C:\Users\User\Documents\Gamemaker\Assets\Scripts\Mechanics\CardProp.cs
     projectPath: Assets\Scripts\Mechanics\CardProp.cs
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Assets\Scripts\Mechanics\CardProp.cs.meta
     fullPath: C:\Users\User\Documents\Gamemaker\Assets\Scripts\Mechanics\CardProp.cs.meta
     projectPath: Assets\Scripts\Mechanics\CardProp.cs.meta
     originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Scripts\Mechanics\CurrentGameInfo.cs
+    fullPath: C:\Users\User\Documents\Gamemaker\Assets\Scripts\Mechanics\CurrentGameInfo.cs
+    projectPath: Assets\Scripts\Mechanics\CurrentGameInfo.cs
+    originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Scripts\SceneChanger.cs.meta
-    fullPath: C:\Users\User\Documents\Gamemaker\Assets\Scripts\SceneChanger.cs.meta
-    projectPath: Assets\Scripts\SceneChanger.cs.meta
+  - path: Assets\Scripts\Mechanics\CurrentGameInfo.cs.meta
+    fullPath: C:\Users\User\Documents\Gamemaker\Assets\Scripts\Mechanics\CurrentGameInfo.cs.meta
+    projectPath: Assets\Scripts\Mechanics\CurrentGameInfo.cs.meta
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\Mechanics\EachPlaysRandCard.cs
+    fullPath: C:\Users\User\Documents\Gamemaker\Assets\Scripts\Mechanics\EachPlaysRandCard.cs
+    projectPath: Assets\Scripts\Mechanics\EachPlaysRandCard.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\Mechanics\EachPlaysRandCard.cs.meta
+    fullPath: C:\Users\User\Documents\Gamemaker\Assets\Scripts\Mechanics\EachPlaysRandCard.cs.meta
+    projectPath: Assets\Scripts\Mechanics\EachPlaysRandCard.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\Mechanics\MoveToDeck.cs
+    fullPath: C:\Users\User\Documents\Gamemaker\Assets\Scripts\Mechanics\MoveToDeck.cs
+    projectPath: Assets\Scripts\Mechanics\MoveToDeck.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\Mechanics\MoveToDeck.cs.meta
+    fullPath: C:\Users\User\Documents\Gamemaker\Assets\Scripts\Mechanics\MoveToDeck.cs.meta
+    projectPath: Assets\Scripts\Mechanics\MoveToDeck.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\Mechanics\PhysicalCard.cs
+    fullPath: C:\Users\User\Documents\Gamemaker\Assets\Scripts\Mechanics\PhysicalCard.cs
+    projectPath: Assets\Scripts\Mechanics\PhysicalCard.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\Mechanics\PhysicalCard.cs.meta
+    fullPath: C:\Users\User\Documents\Gamemaker\Assets\Scripts\Mechanics\PhysicalCard.cs.meta
+    projectPath: Assets\Scripts\Mechanics\PhysicalCard.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\SceneGameElement.cs
+    fullPath: C:\Users\User\Documents\Gamemaker\Assets\Scripts\SceneGameElement.cs
+    projectPath: Assets\Scripts\SceneGameElement.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\SceneGameElement.cs.meta
+    fullPath: C:\Users\User\Documents\Gamemaker\Assets\Scripts\SceneGameElement.cs.meta
+    projectPath: Assets\Scripts\SceneGameElement.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Assets\Scripts\UserInput.cs
     fullPath: C:\Users\User\Documents\Gamemaker\Assets\Scripts\UserInput.cs
     projectPath: Assets\Scripts\UserInput.cs
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Scripts\UserInput.cs.meta
-    fullPath: C:\Users\User\Documents\Gamemaker\Assets\Scripts\UserInput.cs.meta
-    projectPath: Assets\Scripts\UserInput.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Scripts\UserTextInput.cs
-    fullPath: C:\Users\User\Documents\Gamemaker\Assets\Scripts\UserTextInput.cs
-    projectPath: Assets\Scripts\UserTextInput.cs
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\Scripts\UserTextInput.cs.meta
-    fullPath: C:\Users\User\Documents\Gamemaker\Assets\Scripts\UserTextInput.cs.meta
-    projectPath: Assets\Scripts\UserTextInput.cs.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\wood-600x480.jpg.meta
-    fullPath: C:\Users\User\Documents\Gamemaker\Assets\wood-600x480.jpg.meta
-    projectPath: Assets\wood-600x480.jpg.meta
-    originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Assets\Scripts\WinCondition.cs
+    fullPath: C:\Users\User\Documents\Gamemaker\Assets\Scripts\WinCondition.cs
+    projectPath: Assets\Scripts\WinCondition.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\WinCondition.cs.meta
+    fullPath: C:\Users\User\Documents\Gamemaker\Assets\Scripts\WinCondition.cs.meta
+    projectPath: Assets\Scripts\WinCondition.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Library\ArtifactDB
     fullPath: C:\Users\User\Documents\Gamemaker\Library\ArtifactDB
     projectPath: Library\ArtifactDB
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\Artifacts\13\135bed32508cff3fabc004308a22c12f
-    fullPath: C:\Users\User\Documents\Gamemaker\Library\Artifacts\13\135bed32508cff3fabc004308a22c12f
-    projectPath: Library\Artifacts\13\135bed32508cff3fabc004308a22c12f
+  - path: Library\Artifacts\0a\0a2b362d79024ffdc6e2d5ed1b4a8dd3
+    fullPath: C:\Users\User\Documents\Gamemaker\Library\Artifacts\0a\0a2b362d79024ffdc6e2d5ed1b4a8dd3
+    projectPath: Library\Artifacts\0a\0a2b362d79024ffdc6e2d5ed1b4a8dd3
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\39\3910b7a5a697928d098fa2e10e755554
-    fullPath: C:\Users\User\Documents\Gamemaker\Library\Artifacts\39\3910b7a5a697928d098fa2e10e755554
-    projectPath: Library\Artifacts\39\3910b7a5a697928d098fa2e10e755554
+  - path: Library\Artifacts\62\627a9abb8ba656d00dad44098614d709
+    fullPath: C:\Users\User\Documents\Gamemaker\Library\Artifacts\62\627a9abb8ba656d00dad44098614d709
+    projectPath: Library\Artifacts\62\627a9abb8ba656d00dad44098614d709
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\8f\8f1eb8b7ab6f3a4ce469d9fec502d70c
-    fullPath: C:\Users\User\Documents\Gamemaker\Library\Artifacts\8f\8f1eb8b7ab6f3a4ce469d9fec502d70c
-    projectPath: Library\Artifacts\8f\8f1eb8b7ab6f3a4ce469d9fec502d70c
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\d8\d8a06bedb61f009be09eef5202f3045a
-    fullPath: C:\Users\User\Documents\Gamemaker\Library\Artifacts\d8\d8a06bedb61f009be09eef5202f3045a
-    projectPath: Library\Artifacts\d8\d8a06bedb61f009be09eef5202f3045a
+  - path: Library\Artifacts\9e\9e6d2bbe57ffffbd35f0a2c2c5ab2bd3
+    fullPath: C:\Users\User\Documents\Gamemaker\Library\Artifacts\9e\9e6d2bbe57ffffbd35f0a2c2c5ab2bd3
+    projectPath: Library\Artifacts\9e\9e6d2bbe57ffffbd35f0a2c2c5ab2bd3
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
@@ -755,6 +695,12 @@ MonoBehaviour:
   - path: Library\EditorInstance.json
     fullPath: C:\Users\User\Documents\Gamemaker\Library\EditorInstance.json
     projectPath: Library\EditorInstance.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\expandedItems
+    fullPath: C:\Users\User\Documents\Gamemaker\Library\expandedItems
+    projectPath: Library\expandedItems
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -806,18 +752,6 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\PackageManager\ProjectCache
-    fullPath: C:\Users\User\Documents\Gamemaker\Library\PackageManager\ProjectCache
-    projectPath: Library\PackageManager\ProjectCache
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\PackageManager\ProjectCache.md5
-    fullPath: C:\Users\User\Documents\Gamemaker\Library\PackageManager\ProjectCache.md5
-    projectPath: Library\PackageManager\ProjectCache.md5
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: Library\SceneVisibilityState.asset
     fullPath: C:\Users\User\Documents\Gamemaker\Library\SceneVisibilityState.asset
     projectPath: Library\SceneVisibilityState.asset
@@ -836,9 +770,183 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\ShaderCache\EditorEncounteredVariants
-    fullPath: C:\Users\User\Documents\Gamemaker\Library\ShaderCache\EditorEncounteredVariants
-    projectPath: Library\ShaderCache\EditorEncounteredVariants
+  - path: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+    fullPath: C:\Users\User\Documents\Gamemaker\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
+    fullPath: C:\Users\User\Documents\Gamemaker\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+    fullPath: C:\Users\User\Documents\Gamemaker\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.CollabProxy.Editor.pdb
+    fullPath: C:\Users\User\Documents\Gamemaker\Library\ScriptAssemblies\Unity.CollabProxy.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Unity.CollabProxy.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll
+    fullPath: C:\Users\User\Documents\Gamemaker\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.PlasticSCM.Editor.pdb
+    fullPath: C:\Users\User\Documents\Gamemaker\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Unity.PlasticSCM.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.Rider.Editor.dll
+    fullPath: C:\Users\User\Documents\Gamemaker\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.Rider.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.Rider.Editor.pdb
+    fullPath: C:\Users\User\Documents\Gamemaker\Library\ScriptAssemblies\Unity.Rider.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Unity.Rider.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.Services.Core.Editor.dll
+    fullPath: C:\Users\User\Documents\Gamemaker\Library\ScriptAssemblies\Unity.Services.Core.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.Services.Core.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.Services.Core.Editor.pdb
+    fullPath: C:\Users\User\Documents\Gamemaker\Library\ScriptAssemblies\Unity.Services.Core.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Unity.Services.Core.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.TextMeshPro.dll
+    fullPath: C:\Users\User\Documents\Gamemaker\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+    fullPath: C:\Users\User\Documents\Gamemaker\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.pdb
+    fullPath: C:\Users\User\Documents\Gamemaker\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.TextMeshPro.pdb
+    fullPath: C:\Users\User\Documents\Gamemaker\Library\ScriptAssemblies\Unity.TextMeshPro.pdb
+    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.Timeline.dll
+    fullPath: C:\Users\User\Documents\Gamemaker\Library\ScriptAssemblies\Unity.Timeline.dll
+    projectPath: Library\ScriptAssemblies\Unity.Timeline.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+    fullPath: C:\Users\User\Documents\Gamemaker\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.Timeline.Editor.pdb
+    fullPath: C:\Users\User\Documents\Gamemaker\Library\ScriptAssemblies\Unity.Timeline.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Unity.Timeline.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.Timeline.pdb
+    fullPath: C:\Users\User\Documents\Gamemaker\Library\ScriptAssemblies\Unity.Timeline.pdb
+    projectPath: Library\ScriptAssemblies\Unity.Timeline.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
+    fullPath: C:\Users\User\Documents\Gamemaker\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.VisualStudio.Editor.pdb
+    fullPath: C:\Users\User\Documents\Gamemaker\Library\ScriptAssemblies\Unity.VisualStudio.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Unity.VisualStudio.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+    fullPath: C:\Users\User\Documents\Gamemaker\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.VSCode.Editor.pdb
+    fullPath: C:\Users\User\Documents\Gamemaker\Library\ScriptAssemblies\Unity.VSCode.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Unity.VSCode.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+    fullPath: C:\Users\User\Documents\Gamemaker\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+    projectPath: Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\UnityEditor.TestRunner.pdb
+    fullPath: C:\Users\User\Documents\Gamemaker\Library\ScriptAssemblies\UnityEditor.TestRunner.pdb
+    projectPath: Library\ScriptAssemblies\UnityEditor.TestRunner.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\UnityEditor.UI.dll
+    fullPath: C:\Users\User\Documents\Gamemaker\Library\ScriptAssemblies\UnityEditor.UI.dll
+    projectPath: Library\ScriptAssemblies\UnityEditor.UI.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\UnityEditor.UI.pdb
+    fullPath: C:\Users\User\Documents\Gamemaker\Library\ScriptAssemblies\UnityEditor.UI.pdb
+    projectPath: Library\ScriptAssemblies\UnityEditor.UI.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+    fullPath: C:\Users\User\Documents\Gamemaker\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+    projectPath: Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\UnityEngine.TestRunner.pdb
+    fullPath: C:\Users\User\Documents\Gamemaker\Library\ScriptAssemblies\UnityEngine.TestRunner.pdb
+    projectPath: Library\ScriptAssemblies\UnityEngine.TestRunner.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\UnityEngine.UI.dll
+    fullPath: C:\Users\User\Documents\Gamemaker\Library\ScriptAssemblies\UnityEngine.UI.dll
+    projectPath: Library\ScriptAssemblies\UnityEngine.UI.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\UnityEngine.UI.pdb
+    fullPath: C:\Users\User\Documents\Gamemaker\Library\ScriptAssemblies\UnityEngine.UI.pdb
+    projectPath: Library\ScriptAssemblies\UnityEngine.UI.pdb
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -870,8 +978,8 @@ MonoBehaviour:
     fullPath: C:\Users\User\Documents\Gamemaker\Logs\AssetImportWorker0.log
     projectPath: Logs\AssetImportWorker0.log
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Logs\AssetImportWorker0-prev.log
     fullPath: C:\Users\User\Documents\Gamemaker\Logs\AssetImportWorker0-prev.log
     projectPath: Logs\AssetImportWorker0-prev.log
@@ -882,47 +990,17 @@ MonoBehaviour:
     fullPath: C:\Users\User\Documents\Gamemaker\Logs\AssetImportWorker1-prev.log
     projectPath: Logs\AssetImportWorker1-prev.log
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Logs\shadercompiler-AssetImportWorker0.log
     fullPath: C:\Users\User\Documents\Gamemaker\Logs\shadercompiler-AssetImportWorker0.log
     projectPath: Logs\shadercompiler-AssetImportWorker0.log
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Logs\shadercompiler-UnityShaderCompiler.exe0.log
     fullPath: C:\Users\User\Documents\Gamemaker\Logs\shadercompiler-UnityShaderCompiler.exe0.log
     projectPath: Logs\shadercompiler-UnityShaderCompiler.exe0.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Packages\manifest.json
-    fullPath: C:\Users\User\Documents\Gamemaker\Packages\manifest.json
-    projectPath: Packages\manifest.json
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Packages\packages-lock.json
-    fullPath: C:\Users\User\Documents\Gamemaker\Packages\packages-lock.json
-    projectPath: Packages\packages-lock.json
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: ProjectSettings\AudioManager.asset
-    fullPath: C:\Users\User\Documents\Gamemaker\ProjectSettings\AudioManager.asset
-    projectPath: ProjectSettings\AudioManager.asset
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: ProjectSettings\ClusterInputManager.asset
-    fullPath: C:\Users\User\Documents\Gamemaker\ProjectSettings\ClusterInputManager.asset
-    projectPath: ProjectSettings\ClusterInputManager.asset
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: ProjectSettings\DynamicsManager.asset
-    fullPath: C:\Users\User\Documents\Gamemaker\ProjectSettings\DynamicsManager.asset
-    projectPath: ProjectSettings\DynamicsManager.asset
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -932,138 +1010,12 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: ProjectSettings\EditorSettings.asset
-    fullPath: C:\Users\User\Documents\Gamemaker\ProjectSettings\EditorSettings.asset
-    projectPath: ProjectSettings\EditorSettings.asset
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: ProjectSettings\GraphicsSettings.asset
-    fullPath: C:\Users\User\Documents\Gamemaker\ProjectSettings\GraphicsSettings.asset
-    projectPath: ProjectSettings\GraphicsSettings.asset
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: ProjectSettings\InputManager.asset
-    fullPath: C:\Users\User\Documents\Gamemaker\ProjectSettings\InputManager.asset
-    projectPath: ProjectSettings\InputManager.asset
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: ProjectSettings\NavMeshAreas.asset
-    fullPath: C:\Users\User\Documents\Gamemaker\ProjectSettings\NavMeshAreas.asset
-    projectPath: ProjectSettings\NavMeshAreas.asset
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: ProjectSettings\Physics2DSettings.asset
-    fullPath: C:\Users\User\Documents\Gamemaker\ProjectSettings\Physics2DSettings.asset
-    projectPath: ProjectSettings\Physics2DSettings.asset
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: ProjectSettings\PresetManager.asset
-    fullPath: C:\Users\User\Documents\Gamemaker\ProjectSettings\PresetManager.asset
-    projectPath: ProjectSettings\PresetManager.asset
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: ProjectSettings\ProjectSettings.asset
-    fullPath: C:\Users\User\Documents\Gamemaker\ProjectSettings\ProjectSettings.asset
-    projectPath: ProjectSettings\ProjectSettings.asset
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: ProjectSettings\ProjectVersion.txt
-    fullPath: C:\Users\User\Documents\Gamemaker\ProjectSettings\ProjectVersion.txt
-    projectPath: ProjectSettings\ProjectVersion.txt
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: ProjectSettings\QualitySettings.asset
     fullPath: C:\Users\User\Documents\Gamemaker\ProjectSettings\QualitySettings.asset
     projectPath: ProjectSettings\QualitySettings.asset
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: ProjectSettings\TagManager.asset
-    fullPath: C:\Users\User\Documents\Gamemaker\ProjectSettings\TagManager.asset
-    projectPath: ProjectSettings\TagManager.asset
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: ProjectSettings\TimeManager.asset
-    fullPath: C:\Users\User\Documents\Gamemaker\ProjectSettings\TimeManager.asset
-    projectPath: ProjectSettings\TimeManager.asset
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: ProjectSettings\UnityConnectSettings.asset
-    fullPath: C:\Users\User\Documents\Gamemaker\ProjectSettings\UnityConnectSettings.asset
-    projectPath: ProjectSettings\UnityConnectSettings.asset
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: ProjectSettings\VersionControlSettings.asset
-    fullPath: C:\Users\User\Documents\Gamemaker\ProjectSettings\VersionControlSettings.asset
-    projectPath: ProjectSettings\VersionControlSettings.asset
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: ProjectSettings\VFXManager.asset
-    fullPath: C:\Users\User\Documents\Gamemaker\ProjectSettings\VFXManager.asset
-    projectPath: ProjectSettings\VFXManager.asset
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: UIElementsSchema\UIElements.xsd
-    fullPath: C:\Users\User\Documents\Gamemaker\UIElementsSchema\UIElements.xsd
-    projectPath: UIElementsSchema\UIElements.xsd
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: UIElementsSchema\Unity.Cloud.Collaborate.Components.ChangeListEntries.xsd
-    fullPath: C:\Users\User\Documents\Gamemaker\UIElementsSchema\Unity.Cloud.Collaborate.Components.ChangeListEntries.xsd
-    projectPath: UIElementsSchema\Unity.Cloud.Collaborate.Components.ChangeListEntries.xsd
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: UIElementsSchema\Unity.Cloud.Collaborate.Components.xsd
-    fullPath: C:\Users\User\Documents\Gamemaker\UIElementsSchema\Unity.Cloud.Collaborate.Components.xsd
-    projectPath: UIElementsSchema\Unity.Cloud.Collaborate.Components.xsd
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: UIElementsSchema\Unity.Cloud.Collaborate.Views.xsd
-    fullPath: C:\Users\User\Documents\Gamemaker\UIElementsSchema\Unity.Cloud.Collaborate.Views.xsd
-    projectPath: UIElementsSchema\Unity.Cloud.Collaborate.Views.xsd
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: UIElementsSchema\UnityEditor.PackageManager.UI.xsd
-    fullPath: C:\Users\User\Documents\Gamemaker\UIElementsSchema\UnityEditor.PackageManager.UI.xsd
-    projectPath: UIElementsSchema\UnityEditor.PackageManager.UI.xsd
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: UIElementsSchema\UnityEditor.UIElements.Debugger.xsd
-    fullPath: C:\Users\User\Documents\Gamemaker\UIElementsSchema\UnityEditor.UIElements.Debugger.xsd
-    projectPath: UIElementsSchema\UnityEditor.UIElements.Debugger.xsd
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: UIElementsSchema\UnityEditor.UIElements.xsd
-    fullPath: C:\Users\User\Documents\Gamemaker\UIElementsSchema\UnityEditor.UIElements.xsd
-    projectPath: UIElementsSchema\UnityEditor.UIElements.xsd
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: UIElementsSchema\UnityEngine.UIElements.xsd
-    fullPath: C:\Users\User\Documents\Gamemaker\UIElementsSchema\UnityEngine.UIElements.xsd
-    projectPath: UIElementsSchema\UnityEngine.UIElements.xsd
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
   - path: UserSettings\EditorUserSettings.asset
     fullPath: C:\Users\User\Documents\Gamemaker\UserSettings\EditorUserSettings.asset
     projectPath: UserSettings\EditorUserSettings.asset

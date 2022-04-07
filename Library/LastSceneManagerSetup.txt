@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/3-Info.unity
+- path: Assets/Scenes/6-LocationBehavior.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0

@@ -17,19 +17,34 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/4-Element.unity
     guid: 885e81b01c3d2ab429774cc1d4ce9b92
-  - enabled: 1
-    path: Assets/Scenes/5-Stats.unity
-    guid: dd4c5288545aed148b2707c4083f3a6d
-  - enabled: 1
-    path: Assets/Scenes/6-Conditions.unity
-    guid: c4732d79d4b984442b259116c5390f6e
-  - enabled: 1
-    path: Assets/Scenes/7-Player.unity
-    guid: adf26d2af1d267948a71f9a1e27efbc9
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
   - enabled: 1
     path: Assets/Scenes/TestBoard.unity
     guid: 58f7f82cb7517f940b36cd77f048e9fe
   - enabled: 1
     path: Assets/Scenes/LocationSelect.unity
     guid: b5b648fab6c24c54881da7e7568af0e4
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/5-Locations.unity
+    guid: 91efaba6c9b15324d962efd9415054a9
+  - enabled: 1
+    path: Assets/Scenes/6-LocationBehavior.unity
+    guid: c636d3c7b8342644d967987dbfa0efc4
+  - enabled: 1
+    path: Assets/Scenes/7-PlayersTurn.unity
+    guid: 4de870336c410bc438a9e100cba07f1b
+  - enabled: 1
+    path: Assets/Scenes/8-Conditions.unity
+    guid: 18780b17874041c419948a7c818de1c6
   m_configObjects: {}

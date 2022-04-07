@@ -6,8 +6,10 @@ using System;
 
 public class UserInput : MonoBehaviour
 {
-    public InputField nameInput;
-    //public string gameName;
+    public string string_tmp;
+    public Vector2[] loc_tmp;
+    public Sprite sprite_tmp;
+    public ConstructedLocation cur;
 
     public void getInputField(string field) {
         GameObject child;
@@ -25,12 +27,40 @@ public class UserInput : MonoBehaviour
                 Debug.Log(GameInfo.GAMEINFO.NumPlayers);
                 break;
             case "element":
-                // to-do
+                child = gameObject.transform.GetChild(0).gameObject;
+                GameInfo.GAMEINFO.curElem = child.GetComponent<InputField>().text;
+                //GameInfo.GAMEINFO.createGameElement(child.GetComponent<InputField>().text);
+                //Debug.Log(GameInfo.GAMEINFO.elements[elements.Capacity-1].name);
+                break;
+            case "cards":
+                child = gameObject.transform.GetChild(1).gameObject;
+                GameInfo.GAMEINFO.HasDeckOfCards = child.GetComponent<Toggle>().isOn;
+                cur.PlacingCard = child.GetComponent<Toggle>().isOn;
+                Debug.Log(child.GetComponent<Toggle>().isOn);
                 break;
             case "amount":
-                // to-do
+                child = gameObject.transform.GetChild(4).gameObject;
+                cur.StartingAmount = Int32.Parse(child.GetComponent<InputField>().text);
+                Debug.Log(cur.StartingAmount);
                 break;
-                
+            case "location":
+                child = gameObject.transform.GetChild(0).gameObject;
+                cur.LocName = child.GetComponent<InputField>().text;
+                break;
+            case "elem_type":
+                child = gameObject.transform.GetChild(2).gameObject;
+                cur.ElemType = child.GetComponent<Dropdown>().options[child.GetComponent<Dropdown>().value].text;
+                //Debug.Log(cur.ElemType);
+                break;
+            case "loc1":
+                child = gameObject.transform.GetChild(1).gameObject;
+                cur.location1 = child.GetComponent<Dropdown>().options[child.GetComponent<Dropdown>().value].text;
+                break;
+            case "parser":
+                child = gameObject.transform.GetChild(2).gameObject;
+                cur.parseInput = child.GetComponent<InputField>().text;
+                //cur.altLocations = child.GetComponent<InputField>().text.Split(',');
+                break;
         }
     }
 }

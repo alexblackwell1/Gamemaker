@@ -22,8 +22,8 @@ public class CardBehavior : MonoBehaviour
     public void compareCard()
     {
         //From the BoardState object get the 2 most recently played cards and compare them
-        CardProp c1 = BoardState.BOARD.getPlayedCard(0);
-        CardProp c2 = BoardState.BOARD.getPlayedCard(1);
+        PhysicalCard c1 = BoardState.BOARD.getPlayedCard(0);
+        PhysicalCard c2 = BoardState.BOARD.getPlayedCard(1);
         //CardProp c1 = card1.GetComponent<CardProp>();
         //CardProp c2 = card2.GetComponent<CardProp>();
         Debug.Log(cardValues[c1.getRank()]);

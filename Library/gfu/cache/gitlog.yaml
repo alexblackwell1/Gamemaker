@@ -13,9 +13,539 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2022-03-17T14:58:03.716-04:00
-  initializedAtString: 2022-03-17T13:58:02.400-04:00
+  lastUpdatedAtString: 2022-04-07T16:11:19.404-04:00
+  initializedAtString: 2022-04-07T13:46:53.572-04:00
   log:
+  - commitID: cfffc5e32faad7a38839b87f736d366f62c5865f
+    mergeA: 
+    mergeB: 
+    authorName: alexblackwell1
+    authorEmail: blackwellag@appstate.edu
+    commitEmail: blackwellag@appstate.edu
+    commitName: alexblackwell1
+    summary: 3/17 UI & card test done, some gameInfo on backend
+    description: 
+    timeString: 2022-03-17T15:56:40.000-04:00
+    commitTimeString: 2022-03-17T15:56:40.000-04:00
+    changes:
+    - path: Assets\LayoutBoard.cs
+      fullPath: C:\Users\User\Documents\Gamemaker\Assets\LayoutBoard.cs
+      projectPath: Assets\LayoutBoard.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs\Card.prefab
+      fullPath: C:\Users\User\Documents\Gamemaker\Assets\Prefabs\Card.prefab
+      projectPath: Assets\Prefabs\Card.prefab
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Resources\Boards\25231.png
+      fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\Boards\25231.png
+      projectPath: Assets\Resources\Boards\25231.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\Boards\25231.png.meta
+      fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\Boards\25231.png.meta
+      projectPath: Assets\Resources\Boards\25231.png.meta
+      originalPath: Assets\Resources\Boards\wood-600x480.jpg.meta
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Assets\Resources\Boards\background.png
+      fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\Boards\background.png
+      projectPath: Assets\Resources\Boards\background.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\Boards\background.png.meta
+      fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\Boards\background.png.meta
+      projectPath: Assets\Resources\Boards\background.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\Boards\deathstar.png
+      fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\Boards\deathstar.png
+      projectPath: Assets\Resources\Boards\deathstar.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\Boards\deathstar.png.meta
+      fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\Boards\deathstar.png.meta
+      projectPath: Assets\Resources\Boards\deathstar.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\Boards\wood-600x480.jpg
+      fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\Boards\wood-600x480.jpg
+      projectPath: Assets\Resources\Boards\wood-600x480.jpg
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Assets\Resources\Boards\woodboard1.png
+      fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\Boards\woodboard1.png
+      projectPath: Assets\Resources\Boards\woodboard1.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\Boards\woodboard1.png.meta
+      fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\Boards\woodboard1.png.meta
+      projectPath: Assets\Resources\Boards\woodboard1.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\templates.meta
+      fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\templates.meta
+      projectPath: Assets\Resources\templates.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\templates\Asset 4.png
+      fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\templates\Asset
+        4.png
+      projectPath: Assets\Resources\templates\Asset 4.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\templates\Asset 4.png.meta
+      fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\templates\Asset
+        4.png.meta
+      projectPath: Assets\Resources\templates\Asset 4.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\templates\button.png
+      fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\templates\button.png
+      projectPath: Assets\Resources\templates\button.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\templates\button.png.meta
+      fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\templates\button.png.meta
+      projectPath: Assets\Resources\templates\button.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\templates\element.png
+      fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\templates\element.png
+      projectPath: Assets\Resources\templates\element.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\templates\element.png.meta
+      fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\templates\element.png.meta
+      projectPath: Assets\Resources\templates\element.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\templates\info.png
+      fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\templates\info.png
+      projectPath: Assets\Resources\templates\info.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\templates\info.png.meta
+      fullPath: C:\Users\User\Documents\Gamemaker\Assets\Resources\templates\info.png.meta
+      projectPath: Assets\Resources\templates\info.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\1-Start.unity
+      fullPath: C:\Users\User\Documents\Gamemaker\Assets\Scenes\1-Start.unity
+      projectPath: Assets\Scenes\1-Start.unity
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Scenes\2-Create.unity
+      fullPath: C:\Users\User\Documents\Gamemaker\Assets\Scenes\2-Create.unity
+      projectPath: Assets\Scenes\2-Create.unity
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Scenes\3-Info.unity
+      fullPath: C:\Users\User\Documents\Gamemaker\Assets\Scenes\3-Info.unity
+      projectPath: Assets\Scenes\3-Info.unity
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Scenes\4-Element.unity
+      fullPath: C:\Users\User\Documents\Gamemaker\Assets\Scenes\4-Element.unity
+      projectPath: Assets\Scenes\4-Element.unity
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Scenes\5-Stats.unity
+      fullPath: C:\Users\User\Documents\Gamemaker\Assets\Scenes\5-Stats.unity
+      projectPath: Assets\Scenes\5-Stats.unity
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Scenes\6-Conditions.unity
+      fullPath: C:\Users\User\Documents\Gamemaker\Assets\Scenes\6-Conditions.unity
+      projectPath: Assets\Scenes\6-Conditions.unity
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Scenes\7-Player.unity
+      fullPath: C:\Users\User\Documents\Gamemaker\Assets\Scenes\7-Player.unity
+      projectPath: Assets\Scenes\7-Player.unity
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Scripts\CardDeck.cs
+      fullPath: C:\Users\User\Documents\Gamemaker\Assets\Scripts\CardDeck.cs
+      projectPath: Assets\Scripts\CardDeck.cs
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Assets\Scripts\FileUpload.cs
+      fullPath: C:\Users\User\Documents\Gamemaker\Assets\Scripts\FileUpload.cs
+      projectPath: Assets\Scripts\FileUpload.cs
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Scripts\FirstUnityInstantiate.cs
+      fullPath: C:\Users\User\Documents\Gamemaker\Assets\Scripts\FirstUnityInstantiate.cs
+      projectPath: Assets\Scripts\FirstUnityInstantiate.cs
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Assets\Scripts\GameInfo.cs
+      fullPath: C:\Users\User\Documents\Gamemaker\Assets\Scripts\GameInfo.cs
+      projectPath: Assets\Scripts\GameInfo.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\GameInfo.cs.meta
+      fullPath: C:\Users\User\Documents\Gamemaker\Assets\Scripts\GameInfo.cs.meta
+      projectPath: Assets\Scripts\GameInfo.cs.meta
+      originalPath: Assets\Scripts\FirstUnityInstantiate.cs.meta
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Assets\Scripts\Mechanics.meta
+      fullPath: C:\Users\User\Documents\Gamemaker\Assets\Scripts\Mechanics.meta
+      projectPath: Assets\Scripts\Mechanics.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\Mechanics\BoardState.cs
+      fullPath: C:\Users\User\Documents\Gamemaker\Assets\Scripts\Mechanics\BoardState.cs
+      projectPath: Assets\Scripts\Mechanics\BoardState.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\Mechanics\BoardState.cs.meta
+      fullPath: C:\Users\User\Documents\Gamemaker\Assets\Scripts\Mechanics\BoardState.cs.meta
+      projectPath: Assets\Scripts\Mechanics\BoardState.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\Mechanics\CardBehavior.cs
+      fullPath: C:\Users\User\Documents\Gamemaker\Assets\Scripts\Mechanics\CardBehavior.cs
+      projectPath: Assets\Scripts\Mechanics\CardBehavior.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\Mechanics\CardBehavior.cs.meta
+      fullPath: C:\Users\User\Documents\Gamemaker\Assets\Scripts\Mechanics\CardBehavior.cs.meta
+      projectPath: Assets\Scripts\Mechanics\CardBehavior.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\Mechanics\CardDeck.cs
+      fullPath: C:\Users\User\Documents\Gamemaker\Assets\Scripts\Mechanics\CardDeck.cs
+      projectPath: Assets\Scripts\Mechanics\CardDeck.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\Mechanics\CardDeck.cs.meta
+      fullPath: C:\Users\User\Documents\Gamemaker\Assets\Scripts\Mechanics\CardDeck.cs.meta
+      projectPath: Assets\Scripts\Mechanics\CardDeck.cs.meta
+      originalPath: Assets\Scripts\CardDeck.cs.meta
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Assets\Scripts\Mechanics\CardProp.cs
+      fullPath: C:\Users\User\Documents\Gamemaker\Assets\Scripts\Mechanics\CardProp.cs
+      projectPath: Assets\Scripts\Mechanics\CardProp.cs
+      originalPath: Assets\Scripts\CardProp.cs
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Assets\Scripts\Mechanics\CardProp.cs.meta
+      fullPath: C:\Users\User\Documents\Gamemaker\Assets\Scripts\Mechanics\CardProp.cs.meta
+      projectPath: Assets\Scripts\Mechanics\CardProp.cs.meta
+      originalPath: Assets\Scripts\CardProp.cs.meta
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Assets\Scripts\UserInput.cs
+      fullPath: C:\Users\User\Documents\Gamemaker\Assets\Scripts\UserInput.cs
+      projectPath: Assets\Scripts\UserInput.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\UserInput.cs.meta
+      fullPath: C:\Users\User\Documents\Gamemaker\Assets\Scripts\UserInput.cs.meta
+      projectPath: Assets\Scripts\UserInput.cs.meta
+      originalPath: Assets\Scripts\UserTextInput.cs.meta
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Assets\Scripts\UserTextInput.cs
+      fullPath: C:\Users\User\Documents\Gamemaker\Assets\Scripts\UserTextInput.cs
+      projectPath: Assets\Scripts\UserTextInput.cs
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\ArtifactDB
+      fullPath: C:\Users\User\Documents\Gamemaker\Library\ArtifactDB
+      projectPath: Library\ArtifactDB
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\Artifacts\13\135bed32508cff3fabc004308a22c12f
+      fullPath: C:\Users\User\Documents\Gamemaker\Library\Artifacts\13\135bed32508cff3fabc004308a22c12f
+      projectPath: Library\Artifacts\13\135bed32508cff3fabc004308a22c12f
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\Artifacts\39\3910b7a5a697928d098fa2e10e755554
+      fullPath: C:\Users\User\Documents\Gamemaker\Library\Artifacts\39\3910b7a5a697928d098fa2e10e755554
+      projectPath: Library\Artifacts\39\3910b7a5a697928d098fa2e10e755554
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\Artifacts\8f\8f1eb8b7ab6f3a4ce469d9fec502d70c
+      fullPath: C:\Users\User\Documents\Gamemaker\Library\Artifacts\8f\8f1eb8b7ab6f3a4ce469d9fec502d70c
+      projectPath: Library\Artifacts\8f\8f1eb8b7ab6f3a4ce469d9fec502d70c
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\Artifacts\d8\d8a06bedb61f009be09eef5202f3045a
+      fullPath: C:\Users\User\Documents\Gamemaker\Library\Artifacts\d8\d8a06bedb61f009be09eef5202f3045a
+      projectPath: Library\Artifacts\d8\d8a06bedb61f009be09eef5202f3045a
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\Collab\CollabSnapshot_f76c6d7d-4ac5-4252-82f9-c1facf37c74a.txt
+      fullPath: C:\Users\User\Documents\Gamemaker\Library\Collab\CollabSnapshot_f76c6d7d-4ac5-4252-82f9-c1facf37c74a.txt
+      projectPath: Library\Collab\CollabSnapshot_f76c6d7d-4ac5-4252-82f9-c1facf37c74a.txt
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\CurrentLayout-default.dwlt
+      fullPath: C:\Users\User\Documents\Gamemaker\Library\CurrentLayout-default.dwlt
+      projectPath: Library\CurrentLayout-default.dwlt
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\EditorInstance.json
+      fullPath: C:\Users\User\Documents\Gamemaker\Library\EditorInstance.json
+      projectPath: Library\EditorInstance.json
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\InspectorExpandedItems.asset
+      fullPath: C:\Users\User\Documents\Gamemaker\Library\InspectorExpandedItems.asset
+      projectPath: Library\InspectorExpandedItems.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\LastSceneManagerSetup.txt
+      fullPath: C:\Users\User\Documents\Gamemaker\Library\LastSceneManagerSetup.txt
+      projectPath: Library\LastSceneManagerSetup.txt
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\PackageManager\ProjectCache
+      fullPath: C:\Users\User\Documents\Gamemaker\Library\PackageManager\ProjectCache
+      projectPath: Library\PackageManager\ProjectCache
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\PackageManager\ProjectCache.md5
+      fullPath: C:\Users\User\Documents\Gamemaker\Library\PackageManager\ProjectCache.md5
+      projectPath: Library\PackageManager\ProjectCache.md5
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\SceneVisibilityState.asset
+      fullPath: C:\Users\User\Documents\Gamemaker\Library\SceneVisibilityState.asset
+      projectPath: Library\SceneVisibilityState.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Assembly-CSharp.dll
+      fullPath: C:\Users\User\Documents\Gamemaker\Library\ScriptAssemblies\Assembly-CSharp.dll
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Assembly-CSharp.pdb
+      fullPath: C:\Users\User\Documents\Gamemaker\Library\ScriptAssemblies\Assembly-CSharp.pdb
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ShaderCache\EditorEncounteredVariants
+      fullPath: C:\Users\User\Documents\Gamemaker\Library\ShaderCache\EditorEncounteredVariants
+      projectPath: Library\ShaderCache\EditorEncounteredVariants
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\SourceAssetDB
+      fullPath: C:\Users\User\Documents\Gamemaker\Library\SourceAssetDB
+      projectPath: Library\SourceAssetDB
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\StateCache\MainStageHierarchy\8f\8fd65426490f636435c901d65ce7ed24.json
+      fullPath: C:\Users\User\Documents\Gamemaker\Library\StateCache\MainStageHierarchy\8f\8fd65426490f636435c901d65ce7ed24.json
+      projectPath: Library\StateCache\MainStageHierarchy\8f\8fd65426490f636435c901d65ce7ed24.json
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\StateCache\SceneView\8b\8b0d1387a24a688f32df764794220fab.json
+      fullPath: C:\Users\User\Documents\Gamemaker\Library\StateCache\SceneView\8b\8b0d1387a24a688f32df764794220fab.json
+      projectPath: Library\StateCache\SceneView\8b\8b0d1387a24a688f32df764794220fab.json
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\branches.yaml
+      fullPath: C:\Users\User\Documents\Gamemaker\Library\gfu\cache\branches.yaml
+      projectPath: Library\gfu\cache\branches.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitlocks.yaml
+      fullPath: C:\Users\User\Documents\Gamemaker\Library\gfu\cache\gitlocks.yaml
+      projectPath: Library\gfu\cache\gitlocks.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitlog.yaml
+      fullPath: C:\Users\User\Documents\Gamemaker\Library\gfu\cache\gitlog.yaml
+      projectPath: Library\gfu\cache\gitlog.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitstatusentries.yaml
+      fullPath: C:\Users\User\Documents\Gamemaker\Library\gfu\cache\gitstatusentries.yaml
+      projectPath: Library\gfu\cache\gitstatusentries.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gittrackingstatus.yaml
+      fullPath: C:\Users\User\Documents\Gamemaker\Library\gfu\cache\gittrackingstatus.yaml
+      projectPath: Library\gfu\cache\gittrackingstatus.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\repoinfo.yaml
+      fullPath: C:\Users\User\Documents\Gamemaker\Library\gfu\cache\repoinfo.yaml
+      projectPath: Library\gfu\cache\repoinfo.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Logs\ApiUpdaterCheck.txt
+      fullPath: C:\Users\User\Documents\Gamemaker\Logs\ApiUpdaterCheck.txt
+      projectPath: Logs\ApiUpdaterCheck.txt
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Logs\AssetImportWorker0-prev.log
+      fullPath: C:\Users\User\Documents\Gamemaker\Logs\AssetImportWorker0-prev.log
+      projectPath: Logs\AssetImportWorker0-prev.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Logs\AssetImportWorker0.log
+      fullPath: C:\Users\User\Documents\Gamemaker\Logs\AssetImportWorker0.log
+      projectPath: Logs\AssetImportWorker0.log
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Logs\AssetImportWorker1-prev.log
+      fullPath: C:\Users\User\Documents\Gamemaker\Logs\AssetImportWorker1-prev.log
+      projectPath: Logs\AssetImportWorker1-prev.log
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Logs\shadercompiler-AssetImportWorker0.log
+      fullPath: C:\Users\User\Documents\Gamemaker\Logs\shadercompiler-AssetImportWorker0.log
+      projectPath: Logs\shadercompiler-AssetImportWorker0.log
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Logs\shadercompiler-UnityShaderCompiler.exe0.log
+      fullPath: C:\Users\User\Documents\Gamemaker\Logs\shadercompiler-UnityShaderCompiler.exe0.log
+      projectPath: Logs\shadercompiler-UnityShaderCompiler.exe0.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: ProjectSettings\EditorBuildSettings.asset
+      fullPath: C:\Users\User\Documents\Gamemaker\ProjectSettings\EditorBuildSettings.asset
+      projectPath: ProjectSettings\EditorBuildSettings.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: ProjectSettings\QualitySettings.asset
+      fullPath: C:\Users\User\Documents\Gamemaker\ProjectSettings\QualitySettings.asset
+      projectPath: ProjectSettings\QualitySettings.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: UIElementsSchema\UIElements.xsd
+      fullPath: C:\Users\User\Documents\Gamemaker\UIElementsSchema\UIElements.xsd
+      projectPath: UIElementsSchema\UIElements.xsd
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: UIElementsSchema\Unity.Cloud.Collaborate.Components.ChangeListEntries.xsd
+      fullPath: C:\Users\User\Documents\Gamemaker\UIElementsSchema\Unity.Cloud.Collaborate.Components.ChangeListEntries.xsd
+      projectPath: UIElementsSchema\Unity.Cloud.Collaborate.Components.ChangeListEntries.xsd
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: UIElementsSchema\Unity.Cloud.Collaborate.Components.xsd
+      fullPath: C:\Users\User\Documents\Gamemaker\UIElementsSchema\Unity.Cloud.Collaborate.Components.xsd
+      projectPath: UIElementsSchema\Unity.Cloud.Collaborate.Components.xsd
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: UIElementsSchema\Unity.Cloud.Collaborate.Views.xsd
+      fullPath: C:\Users\User\Documents\Gamemaker\UIElementsSchema\Unity.Cloud.Collaborate.Views.xsd
+      projectPath: UIElementsSchema\Unity.Cloud.Collaborate.Views.xsd
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: UIElementsSchema\UnityEditor.PackageManager.UI.xsd
+      fullPath: C:\Users\User\Documents\Gamemaker\UIElementsSchema\UnityEditor.PackageManager.UI.xsd
+      projectPath: UIElementsSchema\UnityEditor.PackageManager.UI.xsd
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: UIElementsSchema\UnityEditor.UIElements.Debugger.xsd
+      fullPath: C:\Users\User\Documents\Gamemaker\UIElementsSchema\UnityEditor.UIElements.Debugger.xsd
+      projectPath: UIElementsSchema\UnityEditor.UIElements.Debugger.xsd
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: UIElementsSchema\UnityEditor.UIElements.xsd
+      fullPath: C:\Users\User\Documents\Gamemaker\UIElementsSchema\UnityEditor.UIElements.xsd
+      projectPath: UIElementsSchema\UnityEditor.UIElements.xsd
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: UIElementsSchema\UnityEngine.UIElements.xsd
+      fullPath: C:\Users\User\Documents\Gamemaker\UIElementsSchema\UnityEngine.UIElements.xsd
+      projectPath: UIElementsSchema\UnityEngine.UIElements.xsd
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: UserSettings\EditorUserSettings.asset
+      fullPath: C:\Users\User\Documents\Gamemaker\UserSettings\EditorUserSettings.asset
+      projectPath: UserSettings\EditorUserSettings.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
   - commitID: d3539928bc5d24054f62d55db778263ff7d2039b
     mergeA: 
     mergeB: 

@@ -9,7 +9,7 @@ using System.IO;
 public class FileUpload : MonoBehaviour
 {
     public GameObject button;
-    private Sprite selectedBoard;
+    private Sprite selectedImage;
     public String buttonName;
 
     void Start()
@@ -17,7 +17,27 @@ public class FileUpload : MonoBehaviour
         //button = GameObject.Find("Canvas").transform.Find(buttonName).gameObject;
     }
 
-    public void openExplorer()
+    public void loadImage(string imageOf)
+    {
+        selectedImage = openExplorer(imageOf);
+        if (selectedImage == null) return;
+        switch (imageOf) 
+        {
+            case "Boards":
+                button.GetComponent<Image>().sprite = selectedImage;
+                button.GetComponentInChildren<Text>().enabled = false;
+                GameInfo.GAMEINFO.setBoard(selectedImage);
+                break;
+            case "GameElements":
+                button.GetComponent<Image>().sprite = selectedImage;
+                button.GetComponentInChildren<Text>().enabled = false;
+                GameInfo.GAMEINFO.curImg = selectedImage;
+                //ConstructedElement.ELEM_SETUP.setElemImage(selectedImage);
+                break;
+        }
+    }
+
+    public Sprite openExplorer(string imageOf)
     {
         //Open file explorer and look for jpg/png file types
         string filePath = EditorUtility.OpenFilePanel("Game Board", "", "jpg,png");
@@ -29,19 +49,15 @@ public class FileUpload : MonoBehaviour
             string fname = splitF[splitF.Length - 1];
 
             //If the file is not already present in the the directory
-            if (!File.Exists("Assets/Resources/Boards/" + fname))
+            if (!File.Exists("Assets/Resources/" + imageOf + "/" + fname))
             {
-Debug.Log("File not found, copying");
                 //Copy the image into the Boards folder with its name
-                File.Copy(filePath, "Assets/Resources/Boards/" + fname);
+                File.Copy(filePath, "Assets/Resources/"+ imageOf + "/" + fname);
                 
             }
-            Sprite selectedBoard = convertToSprite("Assets/Resources/Boards/" + fname);
-            button.GetComponent<Image>().sprite = selectedBoard;
-            button.GetComponentInChildren<Text>().enabled = false;
-
-            GameInfo.GAMEINFO.setBoard(selectedBoard);
+            return convertToSprite("Assets/Resources/" + imageOf + "/" + fname);
         }
+        return null;
     }
 
     // Code from https://forum.unity.com/threads/generating-sprites-dynamically-from-png-or-jpeg-files-in-c.343735/
