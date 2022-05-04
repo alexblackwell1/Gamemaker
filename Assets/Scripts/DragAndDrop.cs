@@ -27,7 +27,13 @@ public class DragAndDrop : MonoBehaviour
         if (curElem == "Cards")
         {
             Sprite cardBack = Resources.Load<Sprite>("GameElements/cardBack");
-            elemImage.GetComponent<Image>().sprite = cardBack;            
+            elemImage.GetComponent<Image>().sprite = cardBack;
+        }
+        else if (curElem == "Card Hand")
+        {
+            Sprite hand = Resources.Load<Sprite>("GameElements/handImage");
+            elemImage.GetComponent<Image>().sprite = hand;
+            elemImage.gameObject.transform.localScale = new Vector3((float)1, (float).5, 1);
         }
         else
         {
@@ -65,7 +71,6 @@ public class DragAndDrop : MonoBehaviour
             //Debug.Log("Location: "+go.transform.position.x+" "+ go.transform.position.y);
             int c = lh.getLocationCords(go.transform.position);
             //if all elements placed load next screen
-            Debug.Log("C" + c);
             if (c < 0)
             {
                 sc.LoadNextScreen("6-LocationBehavior");
@@ -76,7 +81,14 @@ public class DragAndDrop : MonoBehaviour
                 if (curElem == "Cards")
                 {
                     elemImage.GetComponent<Image>().sprite = Resources.Load<Sprite>("GameElements/cardBack");
-                } else
+                    //elemImage.gameObject.transform.localScale = new Vector3((float).9, (float).9, 1);
+                }
+                else if (curElem == "Card Hand")
+                {
+                    elemImage.GetComponent<Image>().sprite = Resources.Load<Sprite>("GameElements/handImage");
+                    elemImage.gameObject.transform.localScale = new Vector3((float)1, (float).5, 1);
+                }
+                else
                 {
                     elemImage.GetComponent<Image>().sprite = GameInfo.GAMEINFO.Elements.Find(x => x.Name == curElem).getImage();
                 }

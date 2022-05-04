@@ -40,7 +40,16 @@ public class UserInput : MonoBehaviour
                 break;
             case "amount":
                 child = gameObject.transform.GetChild(4).gameObject;
-                cur.StartingAmount = Int32.Parse(child.GetComponent<InputField>().text);
+                var temp = Int32.Parse(child.GetComponent<InputField>().text);
+                if (temp is int)
+                {
+                    cur.StartingAmount = temp;
+                }
+                else
+                {
+                    cur.StartingAmount = -1;
+                }
+                //Int32.Parse(child.GetComponent<InputField>().text);
                 Debug.Log(cur.StartingAmount);
                 break;
             case "location":
@@ -60,6 +69,24 @@ public class UserInput : MonoBehaviour
                 child = gameObject.transform.GetChild(2).gameObject;
                 cur.parseInput = child.GetComponent<InputField>().text;
                 //cur.altLocations = child.GetComponent<InputField>().text.Split(',');
+                break;
+            case "handsize":
+                child = gameObject.transform.GetChild(4).gameObject;
+                int size;
+                bool isInt = Int32.TryParse(child.GetComponent<InputField>().text, out size);
+                if (isInt && size > 0)
+                {
+                    GameInfo.GAMEINFO.HasHandOfCards = true;
+                    GameInfo.GAMEINFO.HandSize = size;
+                }
+                else
+                {
+                    GameInfo.GAMEINFO.HasHandOfCards = false;
+                }
+                break;
+            case "wincon":
+                child = gameObject.transform.GetChild(1).gameObject;
+                GameInfo.GAMEINFO.curElem = child.GetComponent<InputField>().text;
                 break;
         }
     }

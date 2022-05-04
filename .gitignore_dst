@@ -1,0 +1,7 @@
+temp/
+Library/
+Packages/
+Assets/Boards/
+Assets/Plugins/
+Assets/Scenes/
+Assets/*.meta

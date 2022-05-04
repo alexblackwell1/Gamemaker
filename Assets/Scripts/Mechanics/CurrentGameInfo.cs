@@ -1,4 +1,4 @@
-using System.Collections;
+/*using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
@@ -38,19 +38,20 @@ public class CurrentGameInfo : MonoBehaviour
 
     void Start()
     {
-        /*
+        *//*
         deck = new CardDeck();//GameInfo.GAMEINFO.DeckOfCards;
         deck.fullDeck();
         playerHands = deck.splitDeck();
         //playMethod = new EachPlaysRandCard(2, playerHands);
         //GameObject c0 = GameObject.Find("Card0/GameElement(Clone)/Canvas/ElemButton");
         //c0.GetComponent<Button>().onClick.AddListener(test);
-        //DeckButton.GetComponent<Button>().onClick.AddListener(test);*/
+        //DeckButton.GetComponent<Button>().onClick.AddListener(test);*//*
     }
 
     public void test()
-    {/*
+    {*//*
         playMethod.onPlay();
-        Debug.Log("Reach");*/
+        Debug.Log("Reach");*//*
     }
 }
+*/

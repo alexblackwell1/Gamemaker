@@ -33,7 +33,7 @@ public class ConstructedLocation : MonoBehaviour
     }
 
     public static CardDeck deck = null;
-    private static int startingAmount = 0;
+    private static int startingAmount = -1;
     public int StartingAmount
     {
         get { return startingAmount; }
@@ -67,27 +67,34 @@ public class ConstructedLocation : MonoBehaviour
         builtElements = GameInfo.GAMEINFO.Elements;
     }
 
-
+    //private static CardDeck fDeck = null;
     public void builElemLocation()
     {
-        if (locName != null && elemType != null)
+        if (locName != null && elemType != null && startingAmount >= 0)
         {
             for (int i = 0; i < GameInfo.GAMEINFO.NumPlayers; i++)
             {
+                GameInfo.GAMEINFO.StartingAmount.Add(startingAmount);
                 if (elemType == "Cards")
                 {
-                    GameInfo.GAMEINFO.CardLocations.Add(locName+"_"+(i+1), new CardLocation(locName, i+1));
+                    CardLocation curLoc = new CardLocation(locName, i+1);
+                    GameInfo.GAMEINFO.CardLocations.Add(locName+"_"+(i+1), curLoc);
+                }
+                else if (elemType == "Card Hand")
+                {
+                    Debug.Log("Card Hand");
+                    HandLocation curHand = new HandLocation(locName, i+1);
+                    GameInfo.GAMEINFO.HandLocations.Add(locName + "_" + (i + 1), curHand);
                 }
                 else
                 {
                     GameInfo.GAMEINFO.ElementLocations.Add(locName+ "_"+(i+1), new ElementLocation(locName, elemType, i+1));
                 }
                 tempLocNames.Add(locName+"_"+(i+1), elemType);
-                //Dictionary<string, Vector2> locs = GameInfo.GAMEINFO.Elements.Find(x => x.Name == elemType).getLocations();
-                //locs.Add(locName, new Vector2(0,0)); 
             }
             Debug.Log("Loc created!");
             locName = null;
+            startingAmount = -1;
             setInputFields();
         } 
         else
@@ -99,30 +106,38 @@ public class ConstructedLocation : MonoBehaviour
     private void setInputFields()
     {
         GameObject.Find("name_txtInput").GetComponent<InputField>().text = locName;
+        GameObject.Find("amount_txtInput").GetComponent<InputField>().text = null;
     }
 
     public string location1;
     public string parseInput;
 
-   
     public void build()
     {
-        CardLocation primaryLocation = GameInfo.GAMEINFO.CardLocations[location1]; ;
+        Parser parser = new Parser();
+        Location primaryLocation = null;// = GameInfo.GAMEINFO.CardLocations[location1]; ;
         if (tempLocNames[location1] == "Cards")
         {
-            //primaryLocation = GameInfo.GAMEINFO.CardLocations[location1];
-        } else
+            if (parseInput == "FaceDown")
+            {
+                Debug.Log("Face down location");
+                GameInfo.GAMEINFO.CardLocations[location1].FaceUp = false;
+                return;
+            }
+            primaryLocation = GameInfo.GAMEINFO.CardLocations[location1];
+            parser.condition.locationType = 1;
+        } 
+        else if (tempLocNames[location1] == "Card Hand")
         {
-            //primaryLocation = GameInfo.GAMEINFO.ElementLocations[location1];
+            primaryLocation = GameInfo.GAMEINFO.HandLocations[location1];
+            parser.condition.locationType = 2;
         }
-        Parser parser = new Parser();
+        Debug.Log("L type: "+parser.condition.locationType);
         parser.parse(parseInput);
-        primaryLocation.Action = parser.actions[0];
-        primaryLocation.Condition = parser.condition;
+        primaryLocation.addCondActPair(parser.condition, parser.actions);
 
-        Debug.Log(primaryLocation.Action.ToString());
-        Debug.Log(primaryLocation.Condition.ToString());
-
-        //primaryLocation.Action = new CardAction();
+        GameObject.Find("input_inputText").GetComponent<InputField>().text = "";
+        /*Debug.Log(primaryLocation.Actions.ToString());
+        Debug.Log(primaryLocation.Condition.ToString());*/
     }
 }

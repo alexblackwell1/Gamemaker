@@ -27,6 +27,20 @@ public class GameInfo : MonoBehaviour
         set { gameName = value; }
     }
 
+    private static WinCondition wincondition;
+    public WinCondition WinConditions
+    {
+        get { return wincondition; }
+        set { wincondition = value; }
+    }
+
+    private static string boardName = " ";
+    public string BoardName
+    {
+        get { return boardName; }
+        set { boardName = value; }
+    }
+
     private static Sprite boardImage;
     public void setBoard(Sprite b) { boardImage = b; }
     public Sprite getBoard() { return boardImage; }
@@ -38,26 +52,25 @@ public class GameInfo : MonoBehaviour
         set { numPlayers = value; }
     }
 
-    private static bool hasDeckOfCards;
+    private static bool hasDeckOfCards = false;
     public bool HasDeckOfCards
     {
         get { return hasDeckOfCards; }
         set { hasDeckOfCards = value; }
     }
 
-    private static CardDeck deckOfCards;
-    public CardDeck DeckOfCards
+    private static bool hasHandOfCards = false; 
+    public bool HasHandOfCards
     {
-        get { return deckOfCards; }
-        set { deckOfCards = value; }
+        get { return hasHandOfCards; }
+        set { hasHandOfCards = value; }
     }
 
-    /* private static Dictionary<string, Vector2> cardLocations = new Dictionary<string, Vector2>();
-     public Dictionary<string, Vector2> CardLocations
-     {
-         get { return cardLocations; }
-         set { cardLocations = value; }
-     }*/
+    private static Dictionary<string, HandLocation> handLocations = new Dictionary<string, HandLocation>();
+    public Dictionary<string, HandLocation> HandLocations
+    {
+        get { return handLocations; }
+    }
 
     private static Dictionary<string, ElementLocation> elementLocations = new Dictionary<string, ElementLocation>();
     public Dictionary<string, ElementLocation> ElementLocations
@@ -76,6 +89,20 @@ public class GameInfo : MonoBehaviour
     {
         get { return elements; }
         set { elements = value; }
+    }
+
+    private static int handSize = -1;
+    public int HandSize
+    {
+        get { return handSize; }
+        set { handSize = value; }
+    }
+
+    private static List<int> startingAmount = new List<int>();
+    public List<int> StartingAmount
+    {
+        get { return startingAmount; }
+        set { startingAmount = value; }
     }
 
     public string curElem;
@@ -104,5 +131,42 @@ public class GameInfo : MonoBehaviour
         GameElement newElem = new GameElement(en);
         newElem.setImage(es);
         elements.Add(newElem);
+    }
+
+    public void buildCondition()
+    {
+        ConditionParser parser = new ConditionParser();
+        //reusing old public string to get input from UserInput
+        Debug.Log(curElem);
+        string l = curElem.Split(' ')[0];
+        int t;
+        if (CardLocations.ContainsKey(l)) t = 1;
+        else t = 2;
+        parser.condition.locationType = t;
+
+        if (wincondition == null) wincondition = new WinCondition();
+        parser.parse(curElem);
+        WinConditions.addCondition(parser.condition);
+        Debug.Log(parser.condition.ToString());
+        GameObject.Find("input_inputText").GetComponent<InputField>().text = "";
+    }
+
+    private static int winner;
+    public int Winner
+    {
+        get { return winner; }
+        set { winner = value; }
+    }
+
+    public void reset()
+    {
+        gameName = "Game";
+        hasDeckOfCards = false;
+        handLocations = new Dictionary<string, HandLocation>();
+        elementLocations = new Dictionary<string, ElementLocation>();
+        cardLocations = new Dictionary<string, CardLocation>();
+        elements = new List<GameElement>();
+        handSize = -1;
+        startingAmount = new List<int>();
     }
 }

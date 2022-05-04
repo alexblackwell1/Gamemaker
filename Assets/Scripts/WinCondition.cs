@@ -1,51 +1,83 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
-public class WinCondition : MonoBehaviour
+public class WinCondition
 {
-    List<int> conditions = new List<int>(GameInfo.GAMEINFO.NumPlayers);
-    bool change = false;
+    List<int> playerList;
+    List<GameCondition> conditions;
 
-    void Start()
+    public WinCondition()
     {
+        playerList = new List<int>(GameInfo.GAMEINFO.NumPlayers);
+        conditions = new List<GameCondition>();
         // 0 for neither win/lose
         // 1 for victory
         // -1 if lost
         for (int i = 0; i < GameInfo.GAMEINFO.NumPlayers; i++)
         {
-            conditions.Add(0);
+            playerList.Add(0);
         }
     }
 
-    void playerWin(int playerNum)
+    public void changeStatus(int playerNum, string condition)
     {
-        conditions[playerNum] = 1;
-        change = true;
+        if (condition == "wins")
+        {
+            playerWin(playerNum);
+        }
+        else
+        {
+            playerLose(playerNum);
+        }
     }
 
-    void playerLose(int playerNum)
+    public void check()
     {
-        conditions[playerNum] = -1;
-        change = true;
+        int winner = 0;
+        foreach(GameCondition gc in conditions)
+        {
+            gc.check();
+            winner = checkPlayers();
+            if (winner > 0)
+            {
+                // change pages
+                GameInfo.GAMEINFO.Winner = winner;
+                SceneManager.LoadScene("EndGame");
+            }
+        }
     }
 
-    // return 0 if noone has won
+    public void addCondition(GameCondition gc)
+    {
+        conditions.Add(gc);
+    }
+
+    private void playerWin(int playerNum)
+    {
+        playerList[playerNum] = 1;
+    }
+
+    private void playerLose(int playerNum)
+    {
+        playerList[playerNum] = -1;
+    }
+
+    // return 0 if no one has won
     // return playerNumber
-    int checkPlayers()
+    private int checkPlayers()
     {
-        if (!change)
-            return 0;
         //check if any player has won
         /// or if everyone else has lost
         int numRemaining = 0;
         int remaining = -1;
-        for (int i = 0; i < conditions.Count && numRemaining < 2; i++)
+        for (int i = 0; i < playerList.Count && numRemaining < 2; i++)
         {
-            if (conditions[i] == 1) return i;
-            if (conditions[i] != 0)
+            if (playerList[i] == 1) return i+1;
+            if (playerList[i] == 0)
             {
-                remaining = i;
+                remaining = i+1;
                 numRemaining++;
             }
         }
@@ -53,5 +85,16 @@ public class WinCondition : MonoBehaviour
         if (numRemaining == 1)
             return remaining;
         return 0;
+    }
+
+    public override string ToString()
+    {
+        string ret = "";
+        foreach (GameCondition gc in conditions)
+        {
+            ret += gc.ToString() + "\n";
+        }
+        ret += "~\n";
+        return ret;
     }
 }

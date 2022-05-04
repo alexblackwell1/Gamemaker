@@ -14,7 +14,7 @@ public class Parser
     }
 
     public void parse(string input)
-    {
+    {   
         // input string
         // if deck1 rank > deck2 rank : deck3 = deck1 ; deck3 = deck2 ;
         // if deck1 count <= deck2 count : deck3 = deck1 ; deck3 = deck2 ;
@@ -49,7 +49,9 @@ public class Parser
 
     CardAction doAction(List<string> actionList)
     {
-        return new CardAction(actionList);
+        CardAction nCA = new CardAction(actionList);
+        nCA.locationType = condition.locationType;
+        return nCA;
     }
 
     CardCondition ifCase(List<string> ifInput)

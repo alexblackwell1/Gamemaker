@@ -13,6 +13,25 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
+<<<<<<< HEAD
+  lastUpdatedAtString: 2022-05-04T11:44:03.438-04:00
+  initializedAtString: 2022-05-04T11:37:57.243-04:00
+  entries:
+  - path: .plastic\plastic.changes
+    fullPath: C:\Users\jakeb\TTGM\Gamemaker\.plastic\plastic.changes
+    projectPath: .plastic\plastic.changes
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: .plastic\plastic.wktree
+    fullPath: C:\Users\jakeb\TTGM\Gamemaker\.plastic\plastic.wktree
+    projectPath: .plastic\plastic.wktree
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ArtifactDB
+    fullPath: C:\Users\jakeb\TTGM\Gamemaker\Library\ArtifactDB
+=======
   lastUpdatedAtString: 2022-04-07T16:47:02.743-04:00
   initializedAtString: 2022-04-07T13:46:52.194-04:00
   entries:
@@ -658,10 +677,15 @@ MonoBehaviour:
     workTreeStatus: 1
   - path: Library\ArtifactDB
     fullPath: C:\Users\User\Documents\Gamemaker\Library\ArtifactDB
+>>>>>>> b0cb2884b11e8518c7f64c46c12b9694aed7d629
     projectPath: Library\ArtifactDB
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+<<<<<<< HEAD
+  - path: Library\EditorInstance.json
+    fullPath: C:\Users\jakeb\TTGM\Gamemaker\Library\EditorInstance.json
+=======
   - path: Library\Artifacts\0a\0a2b362d79024ffdc6e2d5ed1b4a8dd3
     fullPath: C:\Users\User\Documents\Gamemaker\Library\Artifacts\0a\0a2b362d79024ffdc6e2d5ed1b4a8dd3
     projectPath: Library\Artifacts\0a\0a2b362d79024ffdc6e2d5ed1b4a8dd3
@@ -694,10 +718,15 @@ MonoBehaviour:
     workTreeStatus: 3
   - path: Library\EditorInstance.json
     fullPath: C:\Users\User\Documents\Gamemaker\Library\EditorInstance.json
+>>>>>>> b0cb2884b11e8518c7f64c46c12b9694aed7d629
     projectPath: Library\EditorInstance.json
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+<<<<<<< HEAD
+  - path: Library\gfu\cache\branches.yaml
+    fullPath: C:\Users\jakeb\TTGM\Gamemaker\Library\gfu\cache\branches.yaml
+=======
   - path: Library\expandedItems
     fullPath: C:\Users\User\Documents\Gamemaker\Library\expandedItems
     projectPath: Library\expandedItems
@@ -706,40 +735,65 @@ MonoBehaviour:
     workTreeStatus: 3
   - path: Library\gfu\cache\branches.yaml
     fullPath: C:\Users\User\Documents\Gamemaker\Library\gfu\cache\branches.yaml
+>>>>>>> b0cb2884b11e8518c7f64c46c12b9694aed7d629
     projectPath: Library\gfu\cache\branches.yaml
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\gfu\cache\gitlocks.yaml
+<<<<<<< HEAD
+    fullPath: C:\Users\jakeb\TTGM\Gamemaker\Library\gfu\cache\gitlocks.yaml
+=======
     fullPath: C:\Users\User\Documents\Gamemaker\Library\gfu\cache\gitlocks.yaml
+>>>>>>> b0cb2884b11e8518c7f64c46c12b9694aed7d629
     projectPath: Library\gfu\cache\gitlocks.yaml
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\gfu\cache\gitlog.yaml
+<<<<<<< HEAD
+    fullPath: C:\Users\jakeb\TTGM\Gamemaker\Library\gfu\cache\gitlog.yaml
+=======
     fullPath: C:\Users\User\Documents\Gamemaker\Library\gfu\cache\gitlog.yaml
+>>>>>>> b0cb2884b11e8518c7f64c46c12b9694aed7d629
     projectPath: Library\gfu\cache\gitlog.yaml
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\gfu\cache\gitstatusentries.yaml
+<<<<<<< HEAD
+    fullPath: C:\Users\jakeb\TTGM\Gamemaker\Library\gfu\cache\gitstatusentries.yaml
+=======
     fullPath: C:\Users\User\Documents\Gamemaker\Library\gfu\cache\gitstatusentries.yaml
+>>>>>>> b0cb2884b11e8518c7f64c46c12b9694aed7d629
     projectPath: Library\gfu\cache\gitstatusentries.yaml
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\gfu\cache\gittrackingstatus.yaml
+<<<<<<< HEAD
+    fullPath: C:\Users\jakeb\TTGM\Gamemaker\Library\gfu\cache\gittrackingstatus.yaml
+=======
     fullPath: C:\Users\User\Documents\Gamemaker\Library\gfu\cache\gittrackingstatus.yaml
+>>>>>>> b0cb2884b11e8518c7f64c46c12b9694aed7d629
     projectPath: Library\gfu\cache\gittrackingstatus.yaml
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\gfu\cache\repoinfo.yaml
+<<<<<<< HEAD
+    fullPath: C:\Users\jakeb\TTGM\Gamemaker\Library\gfu\cache\repoinfo.yaml
+=======
     fullPath: C:\Users\User\Documents\Gamemaker\Library\gfu\cache\repoinfo.yaml
+>>>>>>> b0cb2884b11e8518c7f64c46c12b9694aed7d629
     projectPath: Library\gfu\cache\repoinfo.yaml
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+<<<<<<< HEAD
+  - path: Library\LastSceneManagerSetup.txt
+    fullPath: C:\Users\jakeb\TTGM\Gamemaker\Library\LastSceneManagerSetup.txt
+=======
   - path: Library\InspectorExpandedItems.asset
     fullPath: C:\Users\User\Documents\Gamemaker\Library\InspectorExpandedItems.asset
     projectPath: Library\InspectorExpandedItems.asset
@@ -748,16 +802,25 @@ MonoBehaviour:
     workTreeStatus: 3
   - path: Library\LastSceneManagerSetup.txt
     fullPath: C:\Users\User\Documents\Gamemaker\Library\LastSceneManagerSetup.txt
+>>>>>>> b0cb2884b11e8518c7f64c46c12b9694aed7d629
     projectPath: Library\LastSceneManagerSetup.txt
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\SceneVisibilityState.asset
+<<<<<<< HEAD
+    fullPath: C:\Users\jakeb\TTGM\Gamemaker\Library\SceneVisibilityState.asset
+=======
     fullPath: C:\Users\User\Documents\Gamemaker\Library\SceneVisibilityState.asset
+>>>>>>> b0cb2884b11e8518c7f64c46c12b9694aed7d629
     projectPath: Library\SceneVisibilityState.asset
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+<<<<<<< HEAD
+  - path: Library\SourceAssetDB
+    fullPath: C:\Users\jakeb\TTGM\Gamemaker\Library\SourceAssetDB
+=======
   - path: Library\ScriptAssemblies\Assembly-CSharp.dll
     fullPath: C:\Users\User\Documents\Gamemaker\Library\ScriptAssemblies\Assembly-CSharp.dll
     projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
@@ -952,10 +1015,33 @@ MonoBehaviour:
     workTreeStatus: 3
   - path: Library\SourceAssetDB
     fullPath: C:\Users\User\Documents\Gamemaker\Library\SourceAssetDB
+>>>>>>> b0cb2884b11e8518c7f64c46c12b9694aed7d629
     projectPath: Library\SourceAssetDB
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+<<<<<<< HEAD
+  - path: Logs\AssetImportWorker0.log
+    fullPath: C:\Users\jakeb\TTGM\Gamemaker\Logs\AssetImportWorker0.log
+    projectPath: Logs\AssetImportWorker0.log
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Logs\AssetImportWorker0-prev.log
+    fullPath: C:\Users\jakeb\TTGM\Gamemaker\Logs\AssetImportWorker0-prev.log
+    projectPath: Logs\AssetImportWorker0-prev.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Logs\shadercompiler-AssetImportWorker0.log
+    fullPath: C:\Users\jakeb\TTGM\Gamemaker\Logs\shadercompiler-AssetImportWorker0.log
+    projectPath: Logs\shadercompiler-AssetImportWorker0.log
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Logs\shadercompiler-UnityShaderCompiler.exe0.log
+    fullPath: C:\Users\jakeb\TTGM\Gamemaker\Logs\shadercompiler-UnityShaderCompiler.exe0.log
+=======
   - path: Library\StateCache\MainStageHierarchy\8f\8fd65426490f636435c901d65ce7ed24.json
     fullPath: C:\Users\User\Documents\Gamemaker\Library\StateCache\MainStageHierarchy\8f\8fd65426490f636435c901d65ce7ed24.json
     projectPath: Library\StateCache\MainStageHierarchy\8f\8fd65426490f636435c901d65ce7ed24.json
@@ -1000,10 +1086,13 @@ MonoBehaviour:
     workTreeStatus: 3
   - path: Logs\shadercompiler-UnityShaderCompiler.exe0.log
     fullPath: C:\Users\User\Documents\Gamemaker\Logs\shadercompiler-UnityShaderCompiler.exe0.log
+>>>>>>> b0cb2884b11e8518c7f64c46c12b9694aed7d629
     projectPath: Logs\shadercompiler-UnityShaderCompiler.exe0.log
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+<<<<<<< HEAD
+=======
   - path: ProjectSettings\EditorBuildSettings.asset
     fullPath: C:\Users\User\Documents\Gamemaker\ProjectSettings\EditorBuildSettings.asset
     projectPath: ProjectSettings\EditorBuildSettings.asset
@@ -1016,8 +1105,9 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+>>>>>>> b0cb2884b11e8518c7f64c46c12b9694aed7d629
   - path: UserSettings\EditorUserSettings.asset
-    fullPath: C:\Users\User\Documents\Gamemaker\UserSettings\EditorUserSettings.asset
+    fullPath: C:\Users\jakeb\TTGM\Gamemaker\UserSettings\EditorUserSettings.asset
     projectPath: UserSettings\EditorUserSettings.asset
     originalPath: 
     indexStatus: 0

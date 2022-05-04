@@ -29,4 +29,9 @@ public class GameElement //: MonoBehaviour
     public void setImage(Sprite _image) { image = _image; }
     // image GETTTER
     public Sprite getImage() { return image; }
+
+    public override string ToString()
+    {
+        return name;
+    }
 }

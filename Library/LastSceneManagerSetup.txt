@@ -1,5 +1,9 @@
 sceneSetups:
+<<<<<<< HEAD
+- path: Assets/Scenes/EndGame.unity
+=======
 - path: Assets/Scenes/6-LocationBehavior.unity
+>>>>>>> b0cb2884b11e8518c7f64c46c12b9694aed7d629
   isLoaded: 1
   isActive: 1
   isSubScene: 0

@@ -4,6 +4,22 @@ using UnityEngine;
 
 public interface Location
 {
+    PhysicalCard CardSceneObj
+    {
+        get;
+    }
+
+    PhysicalHand HandSceneObj
+    {
+        get;
+    }
+
+    public CardDeck CardDeck
+    {
+        get;
+        set;
+    }
+
     string Name
     {
         get;
@@ -15,10 +31,6 @@ public interface Location
         get;
         set;
     }
-    
 
-    public void setElemObjImg(Sprite s);
-
-    public void onTap();
-    public void check();
+    public void addCondActPair(CardCondition cc, List<CardAction> ca);
 }

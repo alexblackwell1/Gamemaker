@@ -24,23 +24,25 @@ public class LocationHandler : MonoBehaviour
         }
         //curElem = locInfo.TempLocNames.ElementAt(0).Value;
         curLoc = locInfo.TempLocNames.ElementAt(0).Key;
-        //DaD.curElem = curElem;
-        //DaD.curLoc = curLoc;
-        //Debug.Log(curLoc + "   " + curElem);
         locCount = 0;
-        textField.text = "Click to add location " + curLoc + " for element " + curElem;
+        textField.text = "Click to create location for " + curLoc;
     }
 
-   
+
     public int getLocationCords(Vector3 lV)
     {
         locCount++;
         if (curElem == "Cards")
         {
             //GameInfo.GAMEINFO.CardLocations.Add(curLoc, new Vector2(lV.x, lV.y));
-            CardLocation cl = GameInfo.GAMEINFO.CardLocations[curLoc];//.Add(curLoc, new CardLocation(curLoc));
+            CardLocation cl = GameInfo.GAMEINFO.CardLocations[curLoc];
             cl.boardLocation = lV;
-            
+
+        }
+        else if (curElem == "Card Hand")
+        {
+            HandLocation h1 = GameInfo.GAMEINFO.HandLocations[curLoc];
+            h1.boardLocation = lV;
         }
         else
         {
@@ -53,25 +55,10 @@ public class LocationHandler : MonoBehaviour
         if (locCount < locInfo.TempLocNames.Count) {
             curElem = locInfo.TempLocNames.ElementAt(locCount).Value;
             curLoc = locInfo.TempLocNames.ElementAt(locCount).Key;
-            textField.text = "Click to add location " + curLoc + " for element " + curElem;
+            textField.text = "Click to create location for " + curLoc;
             return locCount;
         }
         GameInfo.GAMEINFO.Elements = locInfo.BuiltElements;
         return -1;
-    }
-
-
-    /*    private void getElementLocations()
-        {
-            foreach (var item in locInfo.TempLocNames)
-            {
-                textField.text = "Click to add location " + item.Key + " for element " + item.Value;
-            }
-        }*/
-
-    // Update is called once per frame
-    void Update()
-    {
-        
     }
 }

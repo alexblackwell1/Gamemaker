@@ -30,6 +30,22 @@ public class ElementLocation : Location
         get { return numElements; }
         set { numElements = value; }
     }
+    public CardDeck CardDeck
+    {
+        get { return null; }
+        set { return; }
+    }
+
+    PhysicalCard Location.CardSceneObj
+    {
+        get { return null; }
+    }
+
+    PhysicalHand Location.HandSceneObj
+    {
+        get { return null; }
+    }
+
     ActionEvent Action
     {
         set { action = value; }
@@ -52,4 +68,15 @@ public class ElementLocation : Location
 
     }
 
+    public override string ToString()
+    {
+        string ret = "";
+
+        return ret;
+    }
+
+    public void addCondActPair(CardCondition cc, List<CardAction> ca)
+    {
+        return;
+    }
 }

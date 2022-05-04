@@ -31,6 +31,12 @@ public class BuildDropdown : MonoBehaviour
                     cardOption.text = "Cards";
                     dropdown.options.Add(cardOption);
                 }
+                if (GameInfo.GAMEINFO.HasHandOfCards)
+                {
+                    Dropdown.OptionData cardOption = new Dropdown.OptionData();
+                    cardOption.text = "Card Hand";
+                    dropdown.options.Add(cardOption);
+                }
                 break;
             case "location":
                 foreach (var i in ConstructedLocation.LOC_SETUP.TempLocNames)

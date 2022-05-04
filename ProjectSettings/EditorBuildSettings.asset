@@ -45,6 +45,14 @@ EditorBuildSettings:
     path: Assets/Scenes/7-PlayersTurn.unity
     guid: 4de870336c410bc438a9e100cba07f1b
   - enabled: 1
+<<<<<<< HEAD
+    path: Assets/Scenes/7-Conditions.unity
+    guid: 18780b17874041c419948a7c818de1c6
+  - enabled: 1
+    path: Assets/Scenes/EndGame.unity
+    guid: 4c314b2ece6f6a44597a5cf247724dc9
+=======
     path: Assets/Scenes/8-Conditions.unity
     guid: 18780b17874041c419948a7c818de1c6
+>>>>>>> b0cb2884b11e8518c7f64c46c12b9694aed7d629
   m_configObjects: {}
